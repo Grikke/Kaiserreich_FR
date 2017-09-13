@@ -2,17 +2,17 @@
 
 ### Events ###
 afg.0.t:0 "La 5ème Guerre Anglo-Afghane ?"
-afg.0.d:0 "Parmi les restes du Raj au Sud, la dissension se répand comme un traînée de poudre dans le chaos de la succession dee Edward VIII. Dans Kaboul, nous avons nos propres problèmes avec le mécontentement autour du manque de réforme. Une victoire comme celle de la Quatrième Guerre Anglo-Afghane pourrait renforcer notre propre position tout en gagnant de nouvelles terres et sujets pour la couronne !"
-afg.0.a:0 "The time is ripe! Let us repeat our victories!"
-afg.0.b:0 "What does India have but cows?"
+afg.0.d:0 "Parmi les restes du Raj au Sud, la dissension se répand comme un traînée de poudre dans le chaos de la succession de Edward VIII. Dans Kaboul, nous avons nos propres problèmes avec le mécontentement autour du manque de réforme. Une victoire comme celle de la Quatrième Guerre Anglo-Afghane pourrait renforcer notre propre position tout en gagnant de nouvelles terres et sujets pour la couronne !"
+afg.0.a:0 "Il est l'heure! Vers de nouvelles victoires !"
+afg.0.b:0 "Mis à part des vaches, quelles richesses l'Inde peut donc nous apporter ?"
 
-afg.1.t:0 "The Third Treaty of Rawalpindi"
-afg.1.d:0 "Catastrophe! Our campaign against the Delhi Government has been crowned with spectacular failure and our armies forced through the Pass of Khyber, fleeing in panic. The vice-roy, Ganga Singh, has offered peace - demanding a restoration of the pre-1926 borders. Unfortunately we are unable to decline, lest our very nation be destroyed..."
-afg.1.d.puppet:0 "Catastrophe! Our campaign against the Delhi Government has been crowned with spectacular failure and our armies forced through the Pass of Khyber, fleeing in panic. The vice-roy, Ganga Singh, has offered peace - demanding a restoration of the pre-1926 borders and the permanent submission of our government to theirs. Unfortunately we are unable to decline, lest our very nation be destroyed..."
-afg.1.a:0 "We yield because we have no other choice..."
+afg.1.t:0 "Le Troisième Traité de Rawalpindi"
+afg.1.d:0 "Catastrophe! Notre campagne contre le  gouvernement de Delhi s'est achevé par un échec spectaculaire et nos armées ont été repoussées au delà de la Passe de Khyber, fuyant en désordre. Le vice-roi, Ganga Singh, a proposé la paix - demandant la restauration des frontières pré-1926. Hélas nous ne pouvons qu'accepter, sans quoi notre nation ne sera plus..."
+afg.1.d.puppet:0 "Catastrophe! Notre campagne contre le  gouvernement de Delhi s'est achevé par un échec spectaculaire et nos armées ont été repoussées au delà de la Passe de Khyber, fuyant en désordre. Le vice-roi, Ganga Singh, a proposé la paix - demandant la restauration des frontières pré-1926 et la soumission permanente de notre gouvernement au leurs. Hélas nous ne pouvons qu'accepter, sans quoi notre nation ne sera plus..."
+afg.1.a:0 "Nous nous soumetti=ons, en l'absence d'autre choix..."
 
-afg.2.t:0 "The Third Treaty of Rawalpindi"
-afg.2.d:0 "Victory is ours! The decadent British lapdogs in Delhi have been utterly routed and our forces are entrenched in the smouldering remains of their capital. Now might be the best time to demand concessions, whilst we still carry the lead."
+afg.2.t:0 "Le Troisième Traité de Rawalpindi"
+afg.2.d:0 "La victoire est notre! Le gouvernement décadent des lèche-bottes de Delhi a été complètement écrasé et nos forces sont retranchées dans les ruines fumantes de leure capitale. Il serait probablement opportun d'exprimer nos demandes dès à présent, tant que nous avons l'avantage."
 afg.2.a:0 "Let us claim Kashmir and carve a path to the Mouth of the Indus!"
 afg.2.b:0 "I shall be the emancipator and liberator of all Mohammedans in the Indus Valley!"
 afg.2.c:0 "No peace with idol-worshippers, let us complete our conquest!"
