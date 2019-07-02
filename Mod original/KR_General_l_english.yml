@@ -1,81 +1,101 @@
 ﻿l_english:
 
-### Loading Messages ###
-LOADING_GUI:0 "Signing the Peace with Honour"
-#"Loading GUI"
-LOADING_HISTORY:0 "Hiding Trotsky"
-#"Loading History"
-LOADING_SAVEGAME:0 "Reshaping history: $NAME$"
-#"Loading savegame: $NAME$"
-LOADING_SAVEGAME_NO_NAME:0 "Reshaping history"
-#"Loading savegame"
-LOADING_DATABASES:0 "Purging Syndicalists"
-#"Loading databases"
-LOADING_MAP_SPRITES:0 "Denouncing Monarchists"
-#"Loading sprites"
-LOAD_GFX_PDXMAP_SHADERS:0 "Breaking the Chains"
-#"Loading Map(Creating Shaders)..."
-LOAD_GFX_PDXMAP_TERRAIN:0 "Finding a place in the sun"
-#"Loading Map(Creating Terrain)..."
-LOAD_GFX_PDXMAP_BORDERS:0 "Restoring the Mongol Empire"
-#"Loading Map(Creating Borders)..."
-LOAD_GFX_PDXMAP_TEXTURES:0 "Expelling Western imperialists"
-#"Loading Map(Creating Textures)..."
-LOAD_GFX_PDXMAP_TREES:0 "Assassinating Kerensky"
-#"Loading Map(Creating Trees)..."
-LOAD_GFX_PDXMAP_RIVERS:0 "Making every man a king"
-#"Loading Map(Creating Rivers)..."
-LOAD_GFX_PDXMAP_STATIC_OBJECTS:0 "Sharing our wealth"
-#"Loading Map(Creating objects)..."
-LOAD_EVENTS:0 "Centralising the Dual Monarchy"
-#"Loading Events"
-LOAD_GFX:0 "Fighting a land war in Asia"
-#"Loading Graphics"
-LOADING_MAIN_MENU:0 "Propping up dying empires"
-#"Loading main menu"
-PRECALC_NAVAL_DIST:0 "Deploying the Kaiserliche Marine"
-#"Precalculating Naval Distances"
-EXITING_TO_FRONTEND:0 "Restoring Napoleon"
-#"Returning to main menu"
-LOAD_INIT:0 "Smuggling in Shanghai"
-#"Initialising Game..."
-LOAD_FLAGS:0 "Saving American Democracy"
-#"Creating Flags"
-PROC_FLAGS:0 "Rebuilding the Chinese Empire"
-#"Processing Flags"
-INIT_MAP_LOGIC:0 "Escaping to Africa"
-#"Initialising map logic"
-INIT_GAMESTATE:0 "Treating the Sick Man"
-#"Initialising game"
-EXECUTE_HISTORY:0 "Watching the Rhine"
-#"Executing history"
-CREATING_CHKSUM:0 "Implementing direct rule from London"
-#CREATING_CHKSUM:0 "Apologising for late patches"
-#"Creating checksum"
-GENERATING_GRADIENT_BORDERS:0 "Betraying the revolution"
-#"Generating Gradient Borders"
+### Production ###
+PRODUCTION_CIVILIAN_FACTORIES_SENT_TO_OTHERS:0 "Given to other countries: $VAL|R$"
 
-### Autonomy ###
+### Main Menu Tooltips ###
+COOP_MAIN_MENU_LINK:0 "Click here to go to the Coop Discord"
+KR_MAIN_MENU_LINK:0 "Click here to go to the Kaiserreich Wiki"
+LOGO_MAIN_MENU_LINK:0 "Click here to see the patch notes"
+
+### Difficulty ###
+custom_diff_strong_ger:0 "Strengthen German Empire"
+custom_diff_strong_frasri:0 "Strengthen the Internationale"
+custom_diff_strong_entente:0 "Strengthen the Entente"
+custom_diff_strong_eng:0 "Strengthen Union of Britain"
+custom_diff_strong_can:0 "Strengthen Canada"
+custom_diff_strong_rus:0 "Strengthen Russia"
+custom_diff_strong_sov:0 "Strengthen Soviets"
+custom_diff_strong_aus:0 "Strengthen Austria"
+custom_diff_strong_usa:0 "Strengthen USA"
+custom_diff_strong_nfa:0 "Strengthen National France"
+custom_diff_strong_ita:0 "Strengthen Italy"
+custom_diff_strong_jap:0 "Strengthen Japan"
+custom_diff_strong_qie:0 "Strengthen Qing Empire"
+
+### Autonomy Levels ###
+kr_integrated_puppet:0 "Integrated Puppet"
+kr_occupied_puppet:0 "Occupied Puppet"
+kr_default_puppet:0 "Puppet"
+kr_autonomous_puppet:0 "Autonomous Puppet"
+kr_nominal_puppet:0 "Nominal Puppet"
+kr_special_autonomous_dependency:0 "Autonomous Dependency"
+kr_african_colony:0 "African Colony"
+kr_african_tributary:0 "African Tributary"
+kr_initial_wif_puppet:0 "Federated Colony"
+kr_soclib_wif_puppet:0 "Federated Dominion"
 autonomy_colony:1 "Autonomous Puppet"
 autonomy_dominion:1 "Autonomous Dependency"
 
+### Autonomy Tooltips ###
+can_lower_autonomy_level:0 "Can lower autonomy level\n"
+can_raise_autonomy_level:0 "Can raise autonomy level\n"
+puppet_can_become_free:0 "May become independent\n"
+puppet_can_be_annexed:0 "May be annexed by the overlord\n"
+may_raise_autonomy:0 "§Y[Root.GetNameDefCap]§! may now raise autonomy level\n"
+may_become_free:0 "§Y[Root.GetNameDefCap]§! may now work towards independence\n"
+
+### Autonomy Events ###
+kr.political.100.t:0 "Order Restored in [Root.GetNameDef]"
+kr.political.100.d:0 "While [Root.GetNameDef] still labours under [overlord_name.GetAdjective] control, the [Root.GetAdjective] military has asserted enough control over our own borders that a semblance of greater autonomy is now possible to exert. This is not independence - far from it - but it does mean we no longer have to rely on [overlord_name.GetAdjective] troops to secure our borders."
+kr.political.100.a:0 "Excellent."
+
+kr.political.101.t:0 "Greater [Root.GetAdjective] Autonomy?"
+kr.political.101.d:0 "[Root.GetNameDefCap] remains under the control of the [overlord_name.GetAdjective] government, but that control is beginning to surely lessen as our strength reasserts itself. [Root.GetAdjective] power is not something to be easily contained, and already our leaders are clamouring for more control over our own affairs. Surely our [overlord_name.GetAdjective] will not be able to resist us for long."
+kr.political.101.a:0 "Long live [Root.GetNameDef]!"
+
+### Government in Exile Events ###
+mtg_exile_government.1.t:0 "[exile_nation.GetAdjective] Exile Leader Offers Service"
+mtg_exile_government.1.desc:0 "After a long and hazardous journey through enemy-held territory and several neutral states, a high ranking military officer from one of our capitulated allies has finally arrived in the capital. Following a short period of recovery, he has offered his services in our common struggle."
+mtg_exile_government.1.a:0 "Your fight is not over yet."
+
 ### Land Units ###
-garrison:0 "Garrison"
 militia:0 "Militia"
+
+### Tech ###
+cl_tech:0 "Light Cruiser Tech"
+dd_tech:0 "Destroyer Tech"
 
 ### Interface ###
 minister:1 "Ministers"
 research_production:1 "Companies"
-industrial_concern:1 "Industrial Company"
+#industrial_concern:1 "Industrial Company" already defined in Traits loc file
 weapons_manufacturer:0 "Weapons Manufacturer"
-tank_manufacturer:1 "Heavy Equipment Manufacturer"
+#tank_manufacturer:1 "Heavy Equipment Manufacturer" already defined in Traits loc file
 air_naval_manufacturer:0 "Air and Naval Manufacturer"
-POLITICS_NOELECTIONS:0 "Any elections by event."
 can_replace_hog:0 "Can Replace Head Of Government"
+for_cannot_be_replaced:0 "Foreign Minister Can't Be Replaced"
+eco_cannot_be_replaced:0 "Economic Minister Can't Be Replaced"
+sec_cannot_be_replaced:0 "Security Minister Can't Be Replaced"
 ministers_cannot_be_replaced:0 "Ministers Cannot Be Replaced"
 
+### Game Options ###
+RULE_GROUP_KAISERREICH_RULES:0 "Kaiserreich Rules"
+RULE_MAP_NAMESTYLE:0 "Map Naming & Renaming"
+RULE_OPTION_USE_EXONYM:0 "Use English Exonyms"
+RULE_OPTION_USE_EXONYM_DESC:0 "All states and victory points will use Anglicised names (exonyms), which will not change during the game."
+RULE_OPTION_USE_ENDONYM:0 "Use Native Endonyms"
+RULE_OPTION_USE_ENDONYM_DESC:0 "Many states and victory points use latin-transliterated native names (endonyms), which will be renamed when state ownership changes. Does not apply to multiplayer games."
+RULE_NEWS_EVENTS:0 "News Events"
+RULE_OPTION_NEWS_EVENTS_ALL:0 "Receive All News"
+RULE_OPTION_NEWS_EVENTS_ALL_DESC:0 "All news events will be received, regardless from where they originate."
+RULE_OPTION_NEWS_EVENTS_SOME:0 "Receive Some News"
+RULE_OPTION_NEWS_EVENTS_SOME_DESC:0 "Only receive major world events and news events for your region of the world."
+RULE_OPTION_NEWS_EVENTS_NONE:0 "Receive No News"
+RULE_OPTION_NEWS_EVENTS_NONE_DESC:0 "Very few news events will ever be received."
+
 ### Factions ###
-Mittelmacht:0 "Mitteleuropa"
+Mittelmacht:0 "Reichspakt"
 Entente:0 "Entente"
 Belgrade_Pact:0 "Belgrade Pact"
 Third_International:0 "Third Internationale"
@@ -83,16 +103,48 @@ Mongolian_Alliance:0 "Great Khanate"
 Scandinavian_Pact:0 "Scandinavian Pact"
 Mediterranean_Bloc:0 "Mediterranean Bloc"
 
+### Custom Triggers ###
+had_war:0 "Has fought in a war"
+is_invalid_war_target_tooltip:0 "Is not a valid target for war"
+is_valid_war_target_tooltip:0 "Is a valid target for war"
+
+### World Tension ###
+second_american_civil_war_threat:0 "Start of the Second American Civil War"
+second_russian_civil_war_threat:0 "Start of the Second Russian Civil War"
+spanish_civil_war_threat:0 "Start of the Spanish Civil War"
+second_weltkrieg_threat:0 "Start of the Second Weltkrieg"
+rise_mongol_empire_threat:0 "Rise of the Mongol Empire"
+fourth_balkan_war_threat:0 "Start of the Fourth Balkan War"
+remilitarize_oltenia_threat:0 "Manoeuvres in the Carpathians"
+romandy_crisis_threat:0 "The Savoyard Crisis has begun"
+russian_expansionism_threat:0 "Russia has started an expansionist path"
+kerensky_assassinated_threat:0 "Kerensky has been assassinated"
+macarthur_threat:0 "American Democracy is over"
+japanese_expansionism_threat:0 "Japan has started an expansionist path"
+mittelafrika_collapse_threat:0 "Mittelafrika has collapsed"
+democratic_win_acw_threat:0 "Democracy has survived the Second American Civil War"
+macarthur_wins_threat:0 "MacArthur has won the Second American Civil War"
+aus_wins_acw_threat:0 "AUS has won the Second American Civil War"
+csa_wins_acw_threat:0 "CSA has won the Second American Civil War"
+belgrade_pact_threat:0 "The Belgrade Pact has formed"
+
+### Other ###
+tooltip_add_idea_closed_economy:0 "Change Trade Law to '§YClosed Economy§!'.\n"
+tooltip_add_idea_command_economy:0 "Change Trade Law to '§YCommand Economy§!'.\n"
+unlock_focuses:0 "§GThis focus will eventually be automatically bypassed and will unlock the other focuses§!\n"
+command_economy:0 "Command Economy"
+
+### Bookmarks ###
+
 ### Name and Description ###
 BM_HISTORY_TITLE:0 "Brief History"
 KR_SCENARIO_NAME:0 "Legacy of the Weltkrieg"
 KR_SCENARIO_DESC:0 "The year of 1936 is a turning point for the history of the world. A time of both great opportunity and great danger. Tensions between the German Empire and the Commune of France are growing, Russia and the USA are increasingly unstable and the old empires of Austria and Ottomans are dissolving. All the meanwhile Syndicalism, Totalism and Radical Socialism are spreading all around the world. Fifteen years have passed since the end of the Weltkrieg, and the old rivalries of yore have reappeared. A single spark may be all it takes to light the powder keg..."
 
+### Major Nations ###
+
 ### Germany ###
 GER_KR_GATHERING_STORM_DESC:0 "In 1919, after five years of war, the German army finally overran the Entente defences in France. In 1921, Britain's surrender followed. The Weltkrieg has made Germany an uncontested World Power, yet things have been going downhill for her since the 1930s. A recessive world economy has dampened the nation's industrial output while other nations' manufacturing power recovers, and now nationalism grows in Germany's eastern client states, who are starting to drift away from the Reich. In 1936, Germany stands at a crossroads, and already we can see cracks in her mighty empire, as her ancestral enemies are regaining their former strength..."
-
-### Austria ###
-AUS_KR_GATHERING_STORM_DESC:0 "'Indivisible and Inseparable' - the aftermath of the Weltkrieg proved the Dual Monarchy to be otherwise. Despite standing amongst the victors, the war revealed the divisions of culture, class and ideology within the Empire, and the inner unrest continued on as the war ended. Kaiser Karl tried to reform the multinational Empire into something that could survive in the twentieth century and launched a series of large scale reforms. However, his efforts excluded the Hungarian side of the Empire, and the debacle that was the Illyrian Revolt only fueled the tensions between the two halves. Whether Austria will hold, only time will tell..."
 
 ### Commune of France ###
 FRA_KR_GATHERING_STORM_DESC:0 "The 3rd Republic ended in the way it began: defeated by German arms, and facing Revolution at home. In 1919, a General Strike was called by the CGT, causing the downfall of the bourgeois government. For 15 years, the new 'Commune of France' has united behind a common platform of Syndico-Socialist consensus, headed by the Comité de Salut Public. However, by 1936 the need to rebuild the country and defend the revolution is believed to be outdated by many critics and there is a growing call for more radical policies. France is confident in her mission, but it is unclear which revolutionary strands shall become dominant in the years to come..."
@@ -109,32 +161,34 @@ RUS_KR_GATHERING_STORM_DESC:0 "During Russia's Civil War, the White forces fough
 ### United States ###
 USA_KR_GATHERING_STORM_DESC:0 "The USA almost left their policy of isolation to intervene in the Weltkrieg, but ultimately kept out of the war. This lead to a victory of the Central Powers. Since then, the USA has struggled economically, European trade opportunities, and the repayment of their loans to the Entente have been made impossible by a German victory. Still internationally regarded as a 'nobody', she now faces mounting internal dissent as the Republican-Democratic hegemony is challenged by two groups - the Syndicalists and the America First Union. With a mounting crisis at home and only a modest reputation overseas, things aren't looking good for the United States of America..."
 
-### Federation of Italy ###
-ITA_KR_GATHERING_STORM_DESC:0 "In 1919 Italy collapsed under a Central Powers' offensive, and the combination of anger at Italy's betrayal and the Austrian desire for a divided Italian peninsula led to a federation of autonomous duchies nominally headed by the Pope being established. A group of radical cardinals, aided by Pope Pius XI, has recently pushed for the centralisation and expansion of Papal power and control over the federation. However, the Holy See must face up to several challenges to its new power - ranging from the now demonised Syndicalist regimes to the south and west of the Federation, to the now very upset Austrians to the north..."
-
-### National France ###
-NFA_KR_GATHERING_STORM_DESC:0 "Fleeing the new Commune of France, the whole apparatus of state and French military, embarked with the Navy to Algiers in 1919. Here, the politicians decided to start from scratch again, and thus proclaiming the Fourth Republic in exile but while still claiming the motherland and still allied with the British. Soon, with most of the refugees being either nationalist, authoritarian, or both, the military seized power under the leadership of Ferdinand Foch followed by the victor of Verdun, Philippe Pétain. Will National France be ready to retake the motherland despite the discontentment of the natives - maybe helped by the young guard of de Gaulle..."
-
 ### Japan ###
-JAP_KR_GATHERING_STORM_DESC: "While the 'Peace with Honour' guaranteed Japanese rule over the colonies, not all was well in the Empire of the Rising Sun. After a period of economic upheaval culminated in a Syndicalist attempt on the life of Prince-Regent Hirohito in 1926, unstable governments followed one another in a year of crisis; First General Tanaka, then the democratic Coalition Cabinet and an intervention in Northeast China. In 1936, Japan is poised to extend her empire. With Germany's dominance appearing to be in decline, the Japanese look hungrily at the remaining Qing territories and the German pacific possessions..."
+JAP_KR_GATHERING_STORM_DESC:0 "While the 'Peace with Honour' guaranteed Japanese rule over the colonies, not all was well in the Empire of the Rising Sun. After a period of economic upheaval culminated in a Syndicalist attempt on the life of Prince-Regent Hirohito in 1926, unstable governments followed one another in a year of crisis; First General Tanaka, then the democratic Coalition Cabinet and an intervention in Northeast China. In 1936, Japan is poised to extend her empire. With Germany's dominance appearing to be in decline, the Japanese look hungrily at the remaining Qing territories and the German pacific possessions..."
 
-### Ottoman Empire ###
-OTT_KR_GATHERING_STORM_DESC:0 "The Ottoman Army had begun to collapse by 1918 and seemed likely to surrender. With the fall of France however, Germany was finally free to send troops to the collapsing Ottoman fronts. The British were quickly driven out of Baghdad and Jerusalem, and the Central Powers soon reached the Suez Canal. Ever triumphant, the Ottomans gained Cyprus and a set of puppet governments in the peace of 1921; but still the Empire remained unindustrialised and in desperate need of reform. However, all is not yet lost. The political situation in Europe is rapidly changing, and many opportunities beckon. Will the 'Sick man of Europe' finally recover?"
+### Featured Nations ###
 
-### Netherlands ###
-HOL_KR_GATHERING_STORM_DESC:0 "While preserving neutrality in Europe, the Netherlands faced all the fiercer challenges in their colonies. The Indonesian Independence movement grows bolder by the day, and the grand days of the Dutch Navy are long gone. And even in Europe, things could be better; the Netherlands have always had a special relationship with Germany, particularly economically – which means the rising economic problems in Germany could extend to the Low Countries. And all of this comes at a time in which a rising number of the Dutch people falter over French syndicalism or the dreams of a Greater Netherlands..."
+### Cuba ###
+CUB_KR_GATHERING_STORM_DESC:0 "A mere seven years since the overthrow of American-backed dictator Gerardo Machado, Cuba again teeters on the edge of political upheaval. The regime of young President Rafael Trejo has steadily lost control over the Army and the civilian government's political authority has all but completely eroded. As radicals both right and left threaten the country, the military may well take full control as soon as an opportunity presents itself."
 
-### Mexico ###
-MEX_KR_GATHERING_STORM_DESC:0 "Mexico has been reigned over by a coalition of former enemies, Alvaro Obregon and Emiliano Zapata, for the last years. Obregon initiated major reconstructions plans to alleviate the damage of the civil war, while Zapatas land reform redistributed nearly 45 million acres of arable land to the peasantry. Zapata was then elected president in 1932, but despite his great progress so far, the next presidential election remains a mystery. Pancho Villa, supported by Zapata, is the favourite, but the Totalist Plutarco Calles may cause some surprises. And while the question of socialisation of foreign ownership remains, the USA have been plunged into turmoil..."
+### Dominican Republic ###
+DOM_KR_GATHERING_STORM_DESC:0 "The American Occupation of the Dominican Republic ended in 1924 and full political control was returned soon after, but within a mere few years, the nation's new democratic constitution would face challenges both within and without. While Democracy has so far survived in the nation, the schism of the long-ruling Red Party has again put the constitution's survival in jeopardy."
 
-### Delhi ###
-DEH_KR_GATHERING_STORM_DESC:0 "Too little and too late, the Anglo-Indian Treaty of 1925 could not bind the Jewel to the Empire. After the Revolution in the homelands, the leadership of the Indian National Congress convened a provisional government in Calcutta. In the confusion of the ensuing civil war, the southern princes rebelled from the Delhi government, prolonging the civil war until 1928. The uneasy truce between the three Indias – the Syndicalist Bharatiya Commune, the Princely federation in the South and the Entente-loyal Delhi government - has held since then, but all three seem to be gathering steam for a new round of conflict over the legacy of the late British Raj..."
+### West Indies Federation ###
+CAF_KR_GATHERING_STORM_DESC:0 "The West Indies Federation was created as a result of the collapse of the British Empire in 1925 due to being unable to exert the influence to control the region directly. After the incorporation of the French colonies in 1927 the country has been home to not only a noticeable class divide, but a cultural and ideological one as well. The people and new generation have seen a noticeable drift towards socialist attitudes and preference towards the communards on the mainland. All it could take is one wrong step before chaos erupts on the Indies..."
 
-### Brazil ###
-BRA_KR_GATHERING_STORM_DESC:0 "Brazil's fragile First Republic has been on the brink of death since the humiliating defeat by Argentina last year. The Brazilian Workers Confederation, an umbrella organisation for the Syndicalists, is leading heavy labour strikes in the Southeast. Meanwhile, nationalist thoughts are growing popular among the middle class. Not even the armed forces can be trusted anymore: the 'Tenentes', the group of officers that already organised mutinies during the war, could be mobilised by any side of the political spectrum. Emergency elections have been called for August, and some say that only a miracle can save democracy in Brazil..."
+### Denmark ###
+DEN_KR_GATHERING_STORM_DESC:0 "Denmark exists under the shadow of Berlin. Its relation with the new hegemon of the world is ancient, has often been hostile, even as recently as 1864, which resulted in the loss of Slesvig to the Germans. Yet, in 1936, ties are warm and Denmark, by grace of having remained neutral in the Weltkrieg maintains its sovereignty in full. Under the guiding hand of the popular social democratic prime minister Thorvald Stauning, Denmark has been profiting off German economic prosperity. Domestically, the future looks bright, but internationally, clouds are gathering. Some fear Denmark will be in the wrong place at the wrong time..."
 
-### Romanian ###
-ROM_KR_GATHERING_STORM_DESC:0 "After Romania was defeated in the Weltkrieg, the country was forced to sign the Treaty of Bucharest in 1918. The southern part of Dobrogea was returned to Bulgaria, Oltenia was de-militarised, and the oilfields were leased to Germany until 2012. When the king died after the war, the military took over the country. Eventually their collaboration with far-right parties would result in the violent take-over of the nationalist Iron Guard in 1935. Lead by the charismatic Corneliu Zelea Codreanu, the new government looks to restore Romania to its former greatness, while also having to deal with the supporters of the monarchy, who want to oust the new regime..."
+### Finland ###
+FIN_KR_GATHERING_STORM_DESC:0 "In the northern periphery of Europe, Finland, the bastion of German influence in the Nordic region, proudly stands. Spawned out of the corpse of the Russian empire and with socialism threatening the nation at its inception, the kingdom has developed into a stalwart ally of Germany against the principles of socialism and the imperialistic hands of Russia. But after almost two decades of independence under the guiding hand of its monarch and the national coalition, unrest is festering: is Finland truly free or is German dominion merely a bit more subtle than that of the Tsars of old?"
+
+### Iceland ###
+ICE_KR_GATHERING_STORM_DESC:0 "Starting in 1874, Iceland had its first taste of independence when Denmark granted the colony home rule. When the guns fell silent after the Weltkrieg, Iceland joined the Mitteleuropa Economic Bloc which brought a period of prosperity to the island. However, this economic prosperity would not last forever. The British Revolution of 1925 shattered the miracle that post-weltkrieg Iceland was experiencing. The last decade has seen Iceland floundering as its economy never fully recovered from the loss of Great Britain. Many politicians are now bringing forward further plans to revitalize the island."
+
+### Norway ###
+NOR_KR_GATHERING_STORM_DESC:0 "For Norway, the last two decades could have been better. As a neutral country supportive of the British war effort, the hegemonic power of Germany did not favour the land of the midnight sun and the nation was excluded from the Mitteleuropa project that did include Sweden and Denmark. When Great Britain fell to the hammer and torch, the last trading partner of Norway that was not subject to heavy tariffs was an ocean away. Eversince, Norway found itself in diplomatic and economic isolation, and in the suffering this entails, the syndicalist-inclined Labour Party rises in the polls at an ever-increasing pace."
+
+### Sweden ###
+SWE_KR_GATHERING_STORM_DESC:0 "In the last decade, Sweden developed itself as a bastion of conservatism under the prosperous rule of prime minister Arvid Lindman, profiting from the fruits of the economic growth in Mitteleuropa during the late 1920s and early 1930s. However, clouds are gathering over Stockholm: in 1934, Arvid Lindman retired as prime minister, and has been succeeded by the less charismatic Gösta Bagge, while the social democratic opposition is rallying around their popular party leader Per Albin Hansson. This year Bagge's first elections as prime minister will be held. Can he hold his ground? And if not, can Sweden's democracy survive this sudden reversal?"
 
 ### History ###
 OTHER_KR_GATHERING_STORM_DESC:0 "The nations of the world, great and small, are waiting for their turn to rise as a major player of this world. From major powers trying to keep their empires to the many nations trying to regain what they lost in the Weltkrieg, all will have to make difficult decisions and balance ideals with pragmatism to have an impact on the future of the world..."
@@ -149,34 +203,8 @@ blank:0 "" #\n
 head_of_government:0 "Head of Government"
 foreign_minister:0 "Foreign Minister"
 economy_minister:0 "Economy Minister"
-security_minister:0 "Security Minister"
-intel_minister:0 "Intel Minister"
-decisions:0 "Decisions"
-naive_optimist:0 "Naive Optimist"
-resource_industrialist:0 "Resource Industrialist"
-mass_assault:0 "School of Mass Combat"
-static_defense:0 "Static Defence Doctrine"
-backstabber:0 "Backroom Backstabber"
-happy_amateur:0 "Happy Amateur"
-corporate_suit:0 "Corporate Suit"
-smiling_oilman:0 "Smiling Oilman"
-silent_workhorse:0 "Silent Workhorse"
-old_general:0 "Old General"
-old_air_marshall:0 "Old Air Marshall"
-totalist_chairman:0 "Totalist Chairman"
-political_powerhouse:0 "Political Powerhouse"
-expansive_imperialist:0 "Stern Imperialist"
-totalist_promoter:0 "Totalist Idol"
-radical_socialist_promoter:0 "Socialist Revolutionary"
-syndicalist_promoter:0 "Syndicalist Union Leader"
-social_democrat_promoter:0 "Socialist Reformist"
-social_liberal_promoter:0 "Progressive Hero"
-market_liberal_promoter:0 "Business Advocate"
-social_conservative_promoter:0 "Staunch Traditionalist"
-authoritarian_democrat_promoter:0 "Authoritarian Constitutionalist"
-paternal_autocrat_promoter:0 "Autocratic Charmer"
-national_populist_promoter:0 "Nationalist Demagogue"
-great_compromiser:0 "Great Compromiser"
+security_minister:0 "Minister of Interior"
+head_of_intel:0 "Head of Mil. Intelligence"
 
 ### Ideologies ###
 totalist:0 "Totalists"
@@ -402,8 +430,17 @@ marine_theorist:0 "Marine Equipment Theorist"
 ### General ###
 fighter_techs:0 "Fighter Tech"
 fighter_techs_research:0 "Fighter Tech Research Time"
-support_tech:0 "Support Tech"
-support_tech_research:0 "Support Tech Research Time"
+#support_tech:0 "Support Tech" already defined in Research loc file
+#support_tech_research:0 "Support Tech Research Time" already defined in Research loc file
+cat_strategic_destruction:0 "Strategic Destruction Tech"
+marine_tech_research:0 "Marines Tech Research Time"
+early_fighter:0 "Interwar Fighter"
+interwar_antiair:0 "Early Anti-Air"
+signal_company_tech:0 "Signal Company"
+cat_anti_air:0 "Stationary Anti-Air Guns"
+cat_light_spg:0 "Light Self-Propelled Guns"
+cat_medium_spg:0 "Medium Self-Propelled Guns"
+efficiency_tech:0 "Production Efficiency Tech"
 
 ### Army Command Traits ###
 
@@ -519,86 +556,86 @@ air_ace_promoter_1:0 "Positive Heroism"
 air_ace_promoter_2:0 "Positive Heroism"
 air_ace_promoter_3:0 "Positive Heroism"
 
-air_naval_strike_1:0 "Naval Strike"
-air_naval_strike_2:0 "Naval Strike"
-air_naval_strike_3:0 "Naval Strike"
+#air_naval_strike_1:0 "Naval Strike" already defined in Traits loc file
+#air_naval_strike_2:0 "Naval Strike" already defined in Traits loc file
+#air_naval_strike_3:0 "Naval Strike" already defined in Traits loc file
 
-air_bomber_interception_1:0 "Bomber Interception"
-air_bomber_interception_2:0 "Bomber Interception"
-air_bomber_interception_3:0 "Bomber Interception"
+#air_bomber_interception_1:0 "Bomber Interception" already defined in Traits loc file
+#air_bomber_interception_2:0 "Bomber Interception" already defined in Traits loc file
+#air_bomber_interception_3:0 "Bomber Interception" already defined in Traits loc file
 
-air_air_superiority_1:0 "Air Superiority"
-air_air_superiority_2:0 "Air Superiority"
-air_air_superiority_3:0 "Air Superiority"
+#air_air_superiority_1:0 "Air Superiority" already defined in Traits loc file
+#air_air_superiority_2:0 "Air Superiority" already defined in Traits loc file
+#air_air_superiority_3:0 "Air Superiority" already defined in Traits loc file
 
-air_close_air_support_1:0 "Close Air Support"
-air_close_air_support_2:0 "Close Air Support"
-air_close_air_support_3:0 "Close Air Support"
+#air_close_air_support_1:0 "Close Air Support" already defined in Traits loc file
+#air_close_air_support_2:0 "Close Air Support" already defined in Traits loc file
+#air_close_air_support_3:0 "Close Air Support" already defined in Traits loc file
 
-air_strategic_bombing_1:0 "Strategic Bombing"
-air_strategic_bombing_2:0 "Strategic Bombing"
-air_strategic_bombing_3:0 "Strategic Bombing"
+#air_strategic_bombing_1:0 "Strategic Bombing" already defined in Traits loc file
+#air_strategic_bombing_2:0 "Strategic Bombing" already defined in Traits loc file
+#air_strategic_bombing_3:0 "Strategic Bombing" already defined in Traits loc file
 
-air_tactical_bombing_1:0 "Tactical Bombing"
-air_tactical_bombing_2:0 "Tactical Bombing"
-air_tactical_bombing_3:0 "Tactical Bombing"
+#air_tactical_bombing_1:0 "Tactical Bombing" already defined in Traits loc file
+#air_tactical_bombing_2:0 "Tactical Bombing" already defined in Traits loc file
+#air_tactical_bombing_3:0 "Tactical Bombing" already defined in Traits loc file
 
-air_airborne_1:0 "Airborne Assault"
-air_airborne_2:0 "Airborne Assault"
-air_airborne_3:0 "Airborne Assault"
+#air_airborne_1:0 "Airborne Assault" already defined in Traits loc file
+#air_airborne_2:0 "Airborne Assault" already defined in Traits loc file
+#air_airborne_3:0 "Airborne Assault" already defined in Traits loc file
 
 ### Naval ###
-navy_chief_naval_aviation_1:0 "Naval Aviation"
-navy_chief_naval_aviation_2:0 "Naval Aviation"
-navy_chief_naval_aviation_3:0 "Naval Aviation"
+#navy_chief_naval_aviation_1:0 "Naval Aviation" already defined in Traits loc file
+#navy_chief_naval_aviation_2:0 "Naval Aviation" already defined in Traits loc file
+#navy_chief_naval_aviation_3:0 "Naval Aviation" already defined in Traits loc file
 
-navy_chief_decisive_battle_1:0 "Decisive Battle Doctrine"
-navy_chief_decisive_battle_2:0 "Decisive Battle Doctrine"
-navy_chief_decisive_battle_3:0 "Decisive Battle Doctrine"
+#navy_chief_decisive_battle_1:0 "Decisive Battle Doctrine" already defined in Traits loc file
+#navy_chief_decisive_battle_2:0 "Decisive Battle Doctrine" already defined in Traits loc file
+#navy_chief_decisive_battle_3:0 "Decisive Battle Doctrine" already defined in Traits loc file
 
-navy_chief_commerce_raiding_1:0 "Commerce Raiding Doctrine"
-navy_chief_commerce_raiding_2:0 "Commerce Raiding Doctrine"
-navy_chief_commerce_raiding_3:0 "Commerce Raiding Doctrine"
+#navy_chief_commerce_raiding_1:0 "Commerce Raiding Doctrine"
+#navy_chief_commerce_raiding_2:0 "Commerce Raiding Doctrine"
+#navy_chief_commerce_raiding_3:0 "Commerce Raiding Doctrine"
 
-navy_chief_reform_1:0 "Naval Reformer"
-navy_chief_reform_2:0 "Naval Reformer"
-navy_chief_reform_3:0 "Naval Reformer"
+#navy_chief_reform_1:0 "Naval Reformer"
+#navy_chief_reform_2:0 "Naval Reformer"
+#navy_chief_reform_3:0 "Naval Reformer"
 
-navy_chief_maneuver_1:0 "Naval Manoeuvre"
-navy_chief_maneuver_2:0 "Naval Manoeuvre"
-navy_chief_maneuver_3:0 "Naval Manoeuvre"
+#navy_chief_maneuver_1:0 "Naval Manoeuvre"
+#navy_chief_maneuver_2:0 "Naval Manoeuvre"
+#navy_chief_maneuver_3:0 "Naval Manoeuvre"
 
-navy_anti_submarine_1:0 "Anti-Submarine"
-navy_anti_submarine_2:0 "Anti-Submarine"
-navy_anti_submarine_3:0 "Anti-Submarine"
+#navy_anti_submarine_1:0 "Anti-Submarine"
+#navy_anti_submarine_2:0 "Anti-Submarine"
+#navy_anti_submarine_3:0 "Anti-Submarine"
 
-navy_naval_air_defense_1:0 "Naval Air Defence"
-navy_naval_air_defense_2:0 "Naval Air Defence"
-navy_naval_air_defense_3:0 "Naval Air Defence"
+#navy_naval_air_defense_1:0 "Naval Air Defence"
+#navy_naval_air_defense_2:0 "Naval Air Defence"
+#navy_naval_air_defense_3:0 "Naval Air Defence"
 
-navy_fleet_logistics_1:0 "Fleet Logistics"
-navy_fleet_logistics_2:0 "Fleet Logistics"
-navy_fleet_logistics_3:0 "Fleet Logistics"
+#navy_fleet_logistics_1:0 "Fleet Logistics"
+#navy_fleet_logistics_2:0 "Fleet Logistics"
+#navy_fleet_logistics_3:0 "Fleet Logistics"
 
-navy_amphibious_assault_1:0 "Amphibious Assault"
-navy_amphibious_assault_2:0 "Amphibious Assault"
-navy_amphibious_assault_3:0 "Amphibious Assault"
+#navy_amphibious_assault_1:0 "Amphibious Assault"
+#navy_amphibious_assault_2:0 "Amphibious Assault"
+#navy_amphibious_assault_3:0 "Amphibious Assault"
 
-navy_submarine_1:0 "Submarine Warfare Doctrine"
-navy_submarine_2:0 "Submarine Warfare Doctrine"
-navy_submarine_3:0 "Submarine Warfare Doctrine"
+#navy_submarine_1:0 "Submarine Warfare Doctrine"
+#navy_submarine_2:0 "Submarine Warfare Doctrine"
+#navy_submarine_3:0 "Submarine Warfare Doctrine"
 
-navy_capital_ship_1:0 "Capital Fleet Doctrine"
-navy_capital_ship_2:0 "Capital Fleet Doctrine"
-navy_capital_ship_3:0 "Capital Fleet Doctrine"
+#navy_capital_ship_1:0 "Capital Fleet Doctrine"
+#navy_capital_ship_2:0 "Capital Fleet Doctrine"
+#navy_capital_ship_3:0 "Capital Fleet Doctrine"
 
-navy_screen_1:0 "Forward Escort Doctrine"
-navy_screen_2:0 "Forward Escort Doctrine"
-navy_screen_3:0 "Forward Escort Doctrine"
+#navy_screen_1:0 "Forward Escort Doctrine"
+#navy_screen_2:0 "Forward Escort Doctrine"
+#navy_screen_3:0 "Forward Escort Doctrine"
 
-navy_carrier_1:0 "Carrier Strike Doctrine"
-navy_carrier_2:0 "Carrier Strike Doctrine"
-navy_carrier_3:0 "Carrier Strike Doctrine"
+#navy_carrier_1:0 "Carrier Strike Doctrine"
+#navy_carrier_2:0 "Carrier Strike Doctrine"
+#navy_carrier_3:0 "Carrier Strike Doctrine"
 
 black_monday:0 "Black Monday"
 
@@ -606,6 +643,33 @@ jet_aircraft_manufacturer:0 "Jet Aircraft Manufacturer"
 
 independent_war:0 "Independent War"
 independent_war_desc:0 "This country is currently in a independent war. It does not want other countries to get involved directly in the war."
+
+### Generic Focus Localisation ###
+WHILE_FOCUSING:0 "While focusing on this, there will be the following effects:\n$EFF$"
+generic_focus:0 "National Focus"
+NATIONAL_FOCUS_MUTUALLY_EXCLUSIVE_TREE:0 "The branches are mutually exclusive."
+NATIONAL_FOCUS_EXCLUSIVE_INFO_DESC:0 "Mutually exclusive with"
+NATIONAL_FOCUS_EXCLUSIVE_INFO_ENTRY:0 "$FOCUS|Y$"
+NATIONAL_FOCUS_NO_CURRENT_EFFECT:0 "This focus currently has no effect. Changes in the world situation may affect this."
+continuous_naval_production:0 "Naval Production"
+continuous_naval_production_desc:0 "By focusing resources on our shipyards and exempting skilled shipbuilders from military service, we can dramatically reduce production time for ships."
+continuous_air_production:0 "Air Production"
+continuous_air_production_desc:0 "We can reorganise our aviation industry to eliminate waste and streamline production."
+continuous_non_factory_construct:0 "Construction Engineering"
+continuous_non_factory_construct_desc:0 "There is still a lot of slack in our construction industry. By focusing our attention on it, we can achieve a significant improvement in construction speed. Unfortunately, the production of machine tools has proven a major bottleneck in the expansion of our heavy industry, so they won't benefit from efforts in this area."
+continuous_reduce_training_time:0 "Army Training"
+continuous_reduce_training_time_desc:0 "By creating specialised advanced training units within each division, we can deploy even divisions that would previously have been held back to finish training to the front."
+continuous_suppression:0 "Resistance Suppression"
+continuous_suppression_desc:0 "By infiltrating the major resistance groups in occupied territory and turning their leaders, we can significantly reduce the amount of damage they can do."
+continuous_repair:0 "Construction Repair"
+continuous_repair_desc:0 "We will form specialised repair teams from factory and construction workers and centrally control their deployment to improve reconstruction of damaged infrastructure."
+#continuous_tech_share:0 "Technology Sharing"
+#continuous_tech_share_desc:0 "We will encourage our research institutes and universities to reach out to their counter parts in allied countries. This will gain us a tech sharing bonus."
+continuous_boost_freedom:0 "Increase Autonomy"
+continuous_boost_freedom_desc:0 "By reorganising our colonial bureaucracy and recruiting native administrators, we will, in time, be able to take charge of our own affairs."
+continuous_restrict_freedom:0 "Suppress Subjects"
+continuous_restrict_freedom_desc:0 "Our colonial subjects have gotten rather silly ideas about things like "self-determination" or "national independence". It is time to disabuse them of these notions."
+unlocks_decision:0 "Unlocks Decision: "
 
 ### Generic Focuses ###
 generic_army_effort:0 "Modern Warfare"

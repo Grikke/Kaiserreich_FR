@@ -7,6 +7,7 @@ lohr:0 "Alexander Löhr"
 georg_johannes_von_trapp:0 "Georg Johannes von Trapp"
 votruba_josef:0 "Josef Votruba"
 eugen_sanger:0 "Eugen Sänger"
+lothar_rendulic:0 "Lothar Rendulic"
 
 ### Canada ###
 royal_marines:0 "Royal Marines"
@@ -39,7 +40,7 @@ kr_QIE_fengtian_haijun_xueyuan:0 "Fèngtian Haijun Xuéyuàn"
 kr_QIE_zhang_xueliang:0 "Zhang Xueliang"
 kr_QIE_aog_board_der_industriellen_entwicklung:0 "A.O.G. Bord der industriellen Entwicklung"
 kr_QIE_alexander_von_falkenhausen:0 "Alexander von Falkenhausen"
-kr_QIE_helmuth_ocn_mucke:0 "Helmuth von Mucke"
+kr_QIE_helmuth_ocn_mucke:0 "Helmuth von Mücke"
 kr_QIE_gunther_pluschow:0 "Gunther Pluschow"
 
 ### USA ###
@@ -80,12 +81,12 @@ fahrettin_pasha:0 "Fahrettin Paşa"
 santuri_mustafa_bey:0 "Santuri Mustafa Bey"
 osman_besim_bey:0 "Osman Besim Bey"
 
-## Flanders-Wallonia, Flanders and Wallonia####
+### Flanders-Wallonia, Flanders and Wallonia ###
 BEL_Raoul_van_Overstraeten_mil_th:0 "Raoul van Overstraeten"
 BEL_karel_jan_bossart:0 "Karel Jan Bossart"
 BEL_Robert_Desmet_mil_th:0 "Robert Desmet"
-FLN_Raoul_van_Overstraeten_mil_th:0 "Raoul van Overstraeten"
-FLN_karel_jan_bossart:0 "Karel Jan Bossart"
-FLN_Robert_Desmet_mil_th:0 "Robert Desmet"
-WLL_Jules_Vincotte_mil_th:0 "Jules Vincotte"
-WLL_Andre_Becquet_mil_th:0 "André Becquet"
+#FLN_Raoul_van_Overstraeten_mil_th:0 "Raoul van Overstraeten" already defined in Companies loc file
+#FLN_karel_jan_bossart:0 "Karel Jan Bossart" already defined in Companies loc file
+#FLN_Robert_Desmet_mil_th:0 "Robert Desmet" already defined in Companies loc file
+#WLL_Jules_Vincotte_mil_th:0 "Jules Vincotte" already defined in Companies loc file
+#WLL_Andre_Becquet_mil_th:0 "André Becquet" already defined in Companies loc file
