@@ -1,202 +1,207 @@
-﻿l_english:
+﻿l_french:
 
-### Stability ###
-disaster:0 "Disaster"
-disaster_desc:0 "You'll end up in a disaster if you let your political power go under §Y-500§!, you'll have to pass above §Y-500§! to go up to very low stability."
-very_low_stability:0 "Very Low Stability"
-very_low_stability_desc:0 "You'll end up at very low stability if you let your political power go under §Y-250§!, you'll have to pass above §Y-250§! to go up to low stability."
-low_stability:0 "Low Stability"
-low_stability_desc:0 "You'll end up at low stability if you let your political power go under §Y-50§!, you'll have to pass above §Y-50§! to go up to average stability."
-normal_stability:0 "Average Stability"
-normal_stability_desc:0 "The basic level of stability."
-good_stability:0 "Good Stability"
-good_stability_desc:0 "If your political power is above §Y150§! you will be able to go up to Good Stability. You'll go down to average stability if you let your political power go under §Y0§!."
-very_good_stability:0 "Very Good Stability"
-very_good_stability_desc:0 "If your political power is above §Y150§! and you are at Good Stability you will be able to go up to Very Good Stability. You'll go straight down to average stability if you let your political power go under §Y0§!."
-stability:0 "Stability"
-EFFECT_CHANGE_LAW_stability:0 "Change our country's stability to '$NAME|Y$' which grants ($DESC$)."
+### La stabilité ###
+catastrophe:0 "Désastre"
+disaster_desc:0 "Vous allez vous retrouver dans un désastre si vous laissez votre stabilité aller sous §Y0% §!. Vous devrez passer au-dessus de la stabilité §Y0% §! pour aller jusqu'à une très faible stabilité."
+very_low_stability:0 "Très faible stabilité"
+very_low_stability_desc:0 "Vous allez vous retrouver à très faible stabilité si vous laissez votre stabilité passer sous §Y25% §! Vous devrez passer au-dessus de la stabilité §Y25% § pour aller à la Stabilité Basse."
+low_stability:0 "Stabilité faible"
+low_stability_desc:0 "Vous allez vous retrouver à faible stabilité si vous laissez votre stabilité passer sous §Y45% §!. Vous devrez passer au-dessus de la stabilité §Y45% §! pour aller jusqu'à la Stabilité Moyenne."
+normal_stability:0 "Stabilité moyenne"
+normal_stability_desc:0 "Le niveau de stabilité de base. \ n \ n"
+good_stability:0 "Bonne stabilité"
+good_stability_desc:0 "Si votre stabilité est supérieure à §Y65% §, vous serez en mesure d'atteindre la bonne stabilité et de revenir à la stabilité moyenne avec le temps."
+very_good_stability:0 "Très bonne stabilité"
+very_good_stability_desc:0 "Si votre stabilité est supérieure à §Y85% §!, vous serez en mesure d'atteindre une très bonne stabilité et de passer rapidement à la bonne stabilité."
+stabilité:0 "Stabilité"
+EFFECT_CHANGE_LAW_stability:0 "Changer la stabilité de notre pays pour '$ NAME | Y $' qui accorde ($ DESC $)."
+tooltip_stability_good:0 "Les pays qui ont une stabilité moyenne peuvent passer à une bonne stabilité"
+tooltip_stability_very_good:0 "Les pays qui ont une bonne stabilité peuvent passer à une très bonne stabilité"
 
-### Popularity ###
-very_low_popularity:0 "Very Low Popularity"
-very_low_popularity_desc:0 "You'll be at Very Low Popularity if your ruling party is under §Y20%§! popularity."
-low_popularity:0 "Low Popularity"
-low_popularity_desc:0 "You'll be at Low Popularity if your ruling party is between §Y20%§! and §Y40%§! popularity."
-normal_popularity:0 "Medium Popularity"
-normal_popularity_desc:0 "You'll be at Medium Popularity if your ruling party is between §Y40%§! and §Y60%§! popularity."
-high_popularity:0 "High Popularity"
-high_popularity_desc:0 "You'll be at High Popularity if your ruling party is between §Y60%§! and §Y80%§! popularity."
-very_high_popularity:0 "Very High Popularity"
-very_high_popularity_desc:0 "You'll be at Very High Popularity if your ruling party is above §Y80%§! popularity."
-popularity:0 "Popularity"
+### Popularité ###
+very_low_popularity:0 "Très faible popularité"
+very_low_popularity_desc:0 "Vous serez à très faible popularité si votre parti au pouvoir est sous la popularité de §Y20% §!"
+faible_popularité:0 "faible popularité"
+low_popularity_desc:0 "Vous serez à faible popularité si votre parti au pouvoir se situe entre §Y20% §! et §Y40% §! popularité."
+normal_popularité:0 "Popularité moyenne"
+normal_popularity_desc:0 "Vous serez à la popularité moyenne si votre parti au pouvoir est entre §Y40% §! et §Y60% §! popularité."
+haute_popularité:0 "Popularité élevée"
+high_popularity_desc:0 "Vous serez à la grande popularité si votre parti au pouvoir est entre §Y60% §! et §Y80% §! popularité."
+very_high_popularity:0 "Très bonne popularité"
+very_high_popularity_desc:0 "Vous serez à très haute popularité si votre parti au pouvoir est au-dessus de la popularité de §Y80% §!"
+popularité:0 "Popularité"
 
-### Economic Health ###
-boom_economy:0 "WIP" #Boom Economy WIP!!!
-good_economy:0 "WIP" #Good Economy WIP!!!
-medium_economy:0 "WIP" #Medium Economy WIP!!!
-bad_economy:0 "WIP" #Bad Economy WIP!!!
-bust_economy:0 "WIP" #Bust Economy WIP!!!
-crash_economy:0 "WIP" #Crash Economy WIP!!!
-economic_health:0 "Work in progress, don't worry about this" #Economic Health WIP!!!
+### Santé économique ###
+boom_economy:0 "WIP" #Boom Economie WIP !!!
+good_economy:0 "WIP" #Good Économie WIP !!!
+medium_economy:0 "WIP" #Medium Economie WIP !!!
+bad_economy:0 "WIP" #Bad Economie WIP !!!
+bust_economy:0 "WIP" #Bain d'économie WIP !!!
+crash_economy:0 "WIP" #Crash Economie WIP !!!
+economic_health:0 "Travaux en cours, ne vous inquiétez pas à ce sujet" #Economie de la santé # !!!
 
-### Stability Events ###
-kr.political.1.t:0 "Downfall in Stability!"
-kr.political.1.d:0 "With our recent lack of political power, our country's stability has been weakened, no longer are we very stable. Once again doubt starts to seep into the political discourse."
-kr.political.1.a:0 "All good things must come to an end."
+### Événements de stabilité ###
+kr.political.reduction:0 "Chute de Stabilité!"
+kr.political.vgtog:0 "Alors que [Root.GetNameDef] est encore considéré comme un pays relativement stable, nous ne jouissons plus de la stabilité à toute épreuve que nous avions autrefois, encore une fois, le doute a commencé à s'infiltrer dans le discours politique. "
+kr.political.vgtonorm:0 "[Root.GetNameDefCap] a connu une réduction sévère de notre stabilité globale.Tandis que nous ne sommes pas près du point de préoccupation, nous ne jouissons plus de la stabilité solide que nous avions autrefois."
+kr.political.vgtolow:0 "[Root.GetNameDefCap] a connu une réduction sévère de notre stabilité globale.Les démonstrations à travers le pays ont montré que nous avons parcouru un long chemin à partir de la stabilité solide comme nous avons récemment possédé, et doutons encore s'est glissée dans le discours politique national. "
+kr.political.vgtovlow:0 "[Root.GetNameDefCap] a connu une réduction sévère de notre stabilité globale.Les démonstrations à travers le pays ont montré que nous avons parcouru un long chemin de la stabilité solide que nous avons récemment possédé, et il y a des questions soulevé quant à la façon dont nous aurions pu tomber si loin si vite.Beaucoup craignent que la catastrophe est imminente. "
+kr.political.vgtodis:0 "[Root.GetNameDefCap] a connu une sévère réduction de notre stabilité globale.Les émeutes à travers le pays ont montré que nous avons fait un long chemin à partir de la stabilité solide que nous avons récemment possédé, et beaucoup se demandent comment nous aurions pu tomber si loin, si vite, beaucoup craignent qu'un coup d'État, ou pire, soit juste au coin de la rue.
+kr.political.gtonorm:0 "[Root.GetNameDefCap] a connu une réduction de notre stabilité globale.Tandis que nous ne sommes pas près du point de préoccupation, nous ne jouissons plus de la stabilité relative que nous avions autrefois."
+kr.political.gtolow:0 "[Root.GetNameDefCap] a connu une réduction sévère de notre stabilité globale.Les démonstrations à travers le pays ont montré que nous avons parcouru un long chemin de la stabilité relative que nous avons récemment possédé, et il y a beaucoup de doute à travers le pays concernant la capacité du gouvernement à gérer la situation. "
+kr.political.gtovlow:0 "[Root.GetNameDefCap] a connu une réduction sévère de notre stabilité globale.Les démonstrations à travers le pays ont montré que nous avons parcouru un long chemin de la stabilité relative que nous avons récemment possédée, et il y a des questions soulevées comme à la façon dont nous aurions pu tomber si loin si vite, beaucoup craignent que le désastre ne soit imminent.
+kr.political.gtodis:0 "[Root.GetNameDefCap] a connu une sévère réduction de notre stabilité globale.Les émeutes à travers le pays ont montré que nous avons parcouru un long chemin de la stabilité relative que nous avons si récemment possédée, et beaucoup se demandent comment nous Beaucoup ont craint qu'un coup d'État, ou pire, soit juste au coin de la rue. "
+kr.political.normtolow:0 "La stabilité de [Root.GetNameDefCap] continue de se détériorer Les manifestations fréquentes à travers le pays ont paralysé les choses et il y a beaucoup de doutes sur la capacité du gouvernement [Root.GetAdjective] à Gérer la situation."
+kr.political.normtovlow:0 "La stabilité de [Root.GetNameDefCap] continue à se dégrader Les manifestations fréquentes à travers le pays ont paralysé les choses et des questions ont été soulevées quant à la façon dont nous aurions pu tomber si loin si rapidement. craignez que la catastrophe soit imminente. "
+kr.political.normtodis:0 "[Root.GetNameDefCap] a connu une réduction sévère de notre stabilité globale.Les émeutes à travers le pays ont montré que nous avons parcouru un long chemin à partir de la stabilité relativement normale que nous avons si récemment possédé, et beaucoup se demandent comment nous aurions pu tomber si loin, si vite, beaucoup craignent qu'un coup d'État, ou pire, soit juste au coin de la rue.
+kr.political.lowtovlow:0 "La stabilité de [Root.GetNameDefCap] n'a cessé de s'aggraver: les manifestations fréquentes à travers le pays ont pratiquement paralysé les choses, la violence s'intensifiant et des questions se posent nous aurions pu tomber si loin, si vite, beaucoup craignent que le désastre ne soit imminent.kr.political.lowtodis:0 "La situation de [Root.GetNameDefCap] est passée de mauvaise à quasi-catastrophique Les émeutes violentes à travers le pays ont montré à quel point notre stabilité est devenue précaire, et beaucoup se demandent s'il y a même un moyen de Beaucoup craignent qu'un coup d'État, ou pire, soit juste au coin de la rue. "
+kr.political.vlowtodis:0 "La situation de [Root.GetNameDefCap] est passée de mauvaise à quasi-catastrophique Les émeutes violentes à travers le pays ont montré à quel point notre stabilité est devenue précaire, et beaucoup se demandent s'il y a même un moyen de Beaucoup craignent qu'un coup d'État, ou pire, soit juste au coin de la rue. "
+kr.political.reduction.a:0 "C'est très inquiétant ..."
 
-kr.political.2.t:0 "Downfall in Stability!"
-kr.political.2.d:0 "With our recent lack of political power, our country's stability has been weakened, we're now on the brink of instability. Few are those who are still perfectly content with our policy."
-kr.political.2.a:0 "This is concerning."
+kr.political.increase:0 "Augmentation de la stabilité"
+kr.political.distovlow:0 "Alors que [Root.GetNameDef] est toujours considéré comme étant dans une situation incroyablement précaire, la scène politique s'est quelque peu améliorée: les efforts pour rétablir l'ordre ont montré des progrès, et nous ne sommes plus sur le point de Pourtant, la plupart croient que la nation a encore un long chemin à parcourir. "
+kr.political.distolow:0 "Alors que [Root.GetNameDef] est toujours considéré comme étant en mauvais état, la scène politique s'est nettement améliorée: les efforts pour rétablir l'ordre ont montré beaucoup de progrès, et nous ne sommes plus sur Cependant, beaucoup croient que la nation a encore un long chemin à parcourir pour se stabiliser réellement. "
+kr.political.distonorm:0 "La situation dans [Root.GetNameDef] est passée d'un quasi-désastre à un état de choses presque normal: les émeutes et les manifestations sont tombées, et l'ordre a été rétabli dans la plupart des régions du pays. Beaucoup sont très conscients que les choses peuvent encore tourner assez rapidement, mais la confiance dans le gouvernement s'améliore rapidement. "
+kr.political.distog:0 "Le retournement de la situation de [Root.GetNameDef] pourrait presque être qualifié de miraculeux: les émeutes et les manifestations ont pratiquement disparu, et l'ordre a été restauré dans la plupart des régions du pays. conscient que les choses pourraient encore tourner assez vite, mais la confiance dans le gouvernement s'améliore rapidement. "
+kr.political.distovg:0 "Le retournement de la situation de [Root.GetNameDef] est tout simplement miraculeux: le pays est passé d'un état de quasi-effondrement à un état de roc solide et ordonné. le sentiment imminent qu'un changement aussi rapide pourrait aussi aller dans la direction inverse, mais - même ainsi - le gouvernement [Root.GetAdjective] a fait la quasi impossible et fixé une situation qui a été pensé pour être presque irréparable. "
+kr.political.vlowtolow:0 "Alors que [Root.GetNameDef] est toujours considéré comme étant en mauvais état, la scène politique s'est nettement améliorée: les efforts pour rétablir l'ordre ont montré beaucoup de progrès, et le sentiment de stabilité qui s'est détériorée Pourtant, beaucoup croient que la nation a encore un long chemin à parcourir pour vraiment s'améliorer. "
+kr.political.vlowtonorm:0 "La situation dans [Root.GetNameDef] est passée d'une situation médiocre à une situation presque normale: les manifestations ont diminué et l'ordre a lentement été rétabli dans la plupart des régions du pays. conscient que les choses pourraient encore tourner assez vite, mais la confiance dans le gouvernement s'améliore rapidement. "
+kr.political.vlowtog:0 "Le retournement de la situation de [Root.GetNameDef] pourrait presque être qualifié de miraculeux: les manifestations violentes ont pratiquement disparu et l'ordre a été rétabli dans la plupart des régions du pays. que les choses pourraient encore tourner assez rapidement, mais la confiance dans le gouvernement s'améliore rapidement. "
+kr.political.vlowtovg:0 "Le retournement de la situation de [Root.GetNameDef] est tout simplement miraculeux: le pays est passé d'un état de détérioration rapide à un état de roc solide et ordonné. le sentiment qu'un changement aussi rapide pourrait aussi aller dans le sens inverse, mais - même ainsi - le gouvernement [Root.GetAdjective] a fait la quasi-impossible et fixé une situation que l'on pensait être presque irréparable. "
+kr.political.lowtonorm:0 "[Root.GetNameDefCap] a connu une inversion dans sa stabilité, avec des manifestations contre le gouvernement qui se ralentissent lentement et la situation revient à la normale.Tandis que les choses sont encore loin d'être bonnes, et la plupart sont conscientes qu'il tout pourrait s'effondrer, la confiance dans la capacité du gouvernement [Root.GetAdjective] à améliorer la stabilité est lentement rétablie. "
+kr.political.lowtog:0 "[Root.GetNameDefCap] a connu une grande inversion dans sa stabilité, avec des manifestations contre la chute progressive du gouvernement et le retour à la normale de la situation. La capacité du gouvernement à faire face à ses problèmes actuels est de plus en plus élevée. "
+kr.political.lowtovg:0 "[Root.GetNameDefCap] a connu un revirement soudain dans sa stabilité, avec des manifestations contre la quasi-disparition du gouvernement et le retour à la normale de la situation, alors que la plupart sont conscients que tout pourrait s'effondrer à nouveau Rapidement, la confiance dans la capacité du gouvernement [Root.GetAdjective] à faire face à ses problèmes actuels est très élevée. "
+kr.political.normtog:0 "[Root.GetNameDefCap] a connu une augmentation de sa stabilité, avec confiance dans le renforcement des capacités du gouvernement [Root.GetAdjective] et le discours politique se tournant vers des affaires plus banales."
+kr.political.normtovg:0 "[Root.GetNameDefCap] a connu une grande augmentation de sa stabilité, avec confiance dans le renforcement des capacités du gouvernement [Root.GetAdjective] et le discours politique se tournant vers des affaires plus banales. être solide comme le roc, bien qu'il y en ait qui persistent à croire qu'une amélioration aussi rapide pourrait tourner aussi vite.
+kr.political.gtovg:0 "La chose continue à s'améliorer à [Root.GetNameDef], le gouvernement actuel étant considéré comme étant solide comme le roc et la confiance dans sa capacité à gérer les problèmes très élevés. Le discours politique est principalement axé sur des questions banales et, pour la plupart, les choses ne peuvent pas être meilleures.
+kr.political.increase.a:0 "Bien, c'est bon ..."
 
-kr.political.3.t:0 "Downfall in Stability!"
-kr.political.3.d:0 "With our recent lack of political power, our country's stability has been weakened, we are now widely considered to be unstable. Fears about the future of our country are starting to be widespread."
-kr.political.3.a:0 "This is only a temporary situation."
+### Evénements de popularité ###
+kr.political.11.t:0 "Très bonne popularité"
+kr.political.11.d:0 "Le soutien civil au parti au pouvoir a atteint un très haut niveau, ce qui a influencé positivement notre pouvoir politique.Notre opposition politique est presque inexistante et nous sommes en mesure d'adopter toute réforme que nous voulons "
+kr.political.11.a:0 "Super!"
 
-kr.political.4.t:0 "Downfall in Stability!"
-kr.political.4.d:0 "With our recent lack of political power, our country's stability has been weakened even more. Riots and strikes are now common place and our government is struggling to assert its authority."
-kr.political.4.a:0 "This doesn't bode well."
-
-kr.political.5.t:0 "Downfall in Stability!"
-kr.political.5.d:0 "With our recent lack of political power, our country has plunged into a disaster. The situation is, by any measure, catastrophic. There is talk of revolution and coups on the streets and people have lost faith in our government. We are struggling to keep our grasp on the country."
-kr.political.5.a:0 "This is a disaster!"
-
-kr.political.6.t:0 "Increase in Stability!"
-kr.political.6.d:0 "With our recent increase of political power, we are finally beginning to regain control on the situation. However, we are still far from safe. At least the major riots and talk of revolution have turned back into civil strikes."
-kr.political.6.a:0 "The worst is over!"
-
-kr.political.7.t:0 "Increase in Stability!"
-kr.political.7.d:0 "With our recent increase of political power, the end is in sight; we are nearly a stable nation. If the people still don't trust us fully, at least they don't feel compelled to violence and anger anymore."
-kr.political.7.a:0 "We are almost back to normal."
-
-kr.political.8.t:0 "Increase in Stability!"
-kr.political.8.d:0 "With our recent increase of political power, we are finally stable once more. The people trust us to run daily business again, and calm returns to the streets, hopefully this won't happen again."
-kr.political.8.a:0 "The [Root.GetAdjective] nation is strong."
-
-kr.political.9.t:0 "Potential Increase in Stability"
-kr.political.9.d:0 "With our recent increase in political power, we now have the chance to improve our stability. However, we must do so manually.\n\nTo go up to Good Stability or Very Good Stability, you will need to take the corresponding law in the Stability Tab under Laws & Government in the Political Screen, the cost is displayed under the option.\n\nDo note that you risk rapidly losing all your positive Stability levels if you ever go under 0 Political Power, so make sure that your country is actually going to stay stable on the short to medium term being making the investment.\n\nThis message won't fire again, so don't forget."
-kr.political.9.a:0 "I understand how to raise my stability."
-
-### Popularity Events ###
-kr.political.11.t:0 "Very High Popularity"
-kr.political.11.d:0 "The civilian support for the ruling party has reached a very high level, which influences our political power. Our political opposition is nearly nonexistent and we stand in position to push any reform we please."
-kr.political.11.a:0 "Great!"
-
-kr.political.12.t:0 "High Popularity"
-kr.political.12.d:0 "The civilian support for the ruling party has reached a high level, which influences our political power. Our political opposition is entrenched and only the most divisive reforms need our personal investment."
+kr.political.12.t:0 "Popularité élevée"
+kr.political.12.d:0 "Le soutien civil au parti au pouvoir a atteint un niveau élevé, ce qui a influencé positivement notre pouvoir politique, notre opposition politique est enracinée et seules les réformes les plus conflictuelles nécessitent notre investissement personnel."
 kr.political.12.a:0 "Nice!"
 
-kr.political.13.t:0 "Average Popularity"
-kr.political.13.d:0 "The civilian support for the ruling party has reached an average level, which influences our political power. While we may need to consult our opposition for some reforms, we can still govern well."
-kr.political.13.a:0 "Good."
+kr.political.13.t:0 "Popularité moyenne"
+kr.political.13.d:0 "Le soutien civil au parti au pouvoir a atteint un niveau moyen, ce qui a influencé notre pouvoir politique, alors que nous devons peut-être consulter notre opposition pour certaines réformes, mais nous pouvons quand même gouverner efficacement. "
+kr.political.13.a:0 "Bon."
 
-kr.political.14.t:0 "Low Popularity"
-kr.political.14.d:0 "The civilian support for the ruling party has reached a low level, which influences our political power. Our opposition is strong enough to form coalitions against us, forcing us to consult and compromise with them often."
-kr.political.14.a:0 "This is bad."
+kr.political.14.t:0 "Popularité"
+kr.political.14.d:0 "Le soutien civil au parti au pouvoir a atteint un niveau bas qui a influencé négativement notre pouvoir politique Notre opposition est assez forte pour former des coalitions contre nous, nous obligeant à consulter et à faire des compromis avec eux souvent."
+kr.political.14.a:0 "C'est mauvais."
 
-kr.political.15.t:0 "Very Low Popularity"
-kr.political.15.d:0 "The civilian support for the ruling party has reached a very low level, which influences our political power. Our party is nearly nonexistent, and our reforms live or die on the whims of the opposition."
-kr.political.15.a:0 "It's a catastrophe!"
+kr.political.15.t:0 "Très faible popularité"
+kr.political.15.d:0 "Le soutien civil au parti au pouvoir a atteint un niveau très bas, ce qui a influencé négativement notre pouvoir politique.Notre parti est presque inexistant, et nos réformes vivent ou meurent sur les caprices de l'opposition "
+kr.political.15.a:0 "C'est une catastrophe!"
 
-### Minister Influences Ruling Party Events ###
-kr.political.16.t:0 "A Minister Supports His Ideology"
-kr.political.16.d:0 "Our current government contains a Minister of a different ideology. He has started supporting his own ideology which is damaging our party popularity. We must act now if we are to reverse his actions."
-kr.political.16.a:0 "There is nothing we can do."
-kr.political.16.b:0 "Use our influence to revert his efforts."
+### Le ministre influence les événements du parti au pouvoir ###
+kr.political.16.t:0 "Un ministre soutient son idéologie"
+kr.political.16.d:0 "Notre gouvernement actuel contient un ministre qui appartient à une idéologie différente, il a commencé à soutenir sa propre idéologie qui a nui à la popularité de notre propre parti, nous devons agir maintenant si nous voulons renverser ses actions. "
+kr.political.16.a:0 "Il n'y a rien que nous puissions faire."
+kr.political.16.b:0 "Utilisez notre influence pour revenir sur ses efforts."
 
-kr.political.17.t:0 "Our Ideology Has Grown"
-kr.political.17.d:0 "Due to his popular policies, one of our loyal ministers has managed to strengthen our ideology. With some additional influence we could use this to increase our popularity."
+kr.political.17.t:0 "Notre idéologie s'est développée"
+kr.political.17.d:0 "Grâce à sa politique populaire, un de nos fidèles ministres a réussi à renforcer notre idéologie et, avec un peu plus d'influence, nous pouvons l'utiliser pour augmenter notre popularité."
 kr.political.17.a:0 "Excellent."
-kr.political.17.b:0 "We don't need this."
+kr.political.17.b:0 "Nous n'avons pas besoin de ça."
 
-kr.political.18.t:0 "Our Ideology Has Grown"
-kr.political.18.d:0 "Due to his popular policies, one of our loyal ministers has managed to strengthen our ideology. With some additional influence we could use this to increase our popularity."
+kr.political.18.t:0 "Notre idéologie s'est développée"
+kr.political.18.d:0 "Grâce à sa politique populaire, un de nos fidèles ministres a réussi à renforcer notre idéologie et, avec une influence supplémentaire, nous pourrions l'utiliser pour augmenter notre popularité."
 kr.political.18.a:0 "Excellent."
-kr.political.18.b:0 "We don't need this."
+kr.political.18.b:0 "Nous n'avons pas besoin de ça."
 
-kr.political.19.t:0 "Our Ideology Has Grown"
-kr.political.19.d:0 "Due to his popular policies, one of our loyal ministers has managed to strengthen our ideology. With some additional influence we could use this to increase our popularity."
+kr.political.19.t:0 "Notre idéologie s'est développée"
+kr.political.19.d:0 "Grâce à sa politique populaire, un de nos fidèles ministres a réussi à renforcer notre idéologie et, avec une influence supplémentaire, nous pourrions l'utiliser pour augmenter notre popularité."
 kr.political.19.a:0 "Excellent."
-kr.political.19.b:0 "We don't need this."
+kr.political.19.b:0 "Nous n'avons pas besoin de ça."
 
-kr.political.20.t:0 "Our Ideology Has Grown"
-kr.political.20.d:0 "Due to his popular policies, one of our loyal ministers has managed to strengthen our ideology. With some additional influence we could use this to increase our popularity."
-kr.political.20.a:0 "Excellent."
-kr.political.20.b:0 "We don't need this."
+kr.political.20.t:0 "Notre idéologie s'est développée"
+kr.political.20.d:0 "Grâce à sa politique populaire, un de nos fidèles ministres a réussi à renforcer notre idéologie et, avec une influence supplémentaire, nous pourrions l'utiliser pour augmenter notre popularité."
+kr.political.20.a:0 "Excellent".
+kr.political.20.b:0 "Nous n'avons pas besoin de ça."
 
-kr.political.21.t:0 "A Minister supports his Ideology"
-kr.political.21.d:0 "Our current government contains a Minister of a different ideology. He has started supporting his own ideology which is damaging our party popularity. We must act now if we are to reverse his actions."
-kr.political.21.a:0 "There is nothing we can do."
-kr.political.21.b:0 "Use our influence to revert his efforts."
+kr.political.21.t:0 "Un ministre soutient son idéologie"
+kr.political.21.d:0 "Notre gouvernement actuel contient un ministre qui appartient à une idéologie différente, il a commencé à soutenir sa propre idéologie qui a nui à la popularité de notre propre parti, nous devons agir maintenant si nous voulons inverser ses actions. "
+kr.political.21.a:0 "Il n'y a rien que nous puissions faire."
+kr.political.21.b:0 "Utilisez notre influence pour revenir sur ses efforts."
 
-kr.political.22.t:0 "A Minister supports his Ideology"
-kr.political.22.d:0 "Our current government contains a Minister of a different ideology. He has started supporting his own ideology which is damaging our party popularity. We must act now if we are to reverse his actions."
-kr.political.22.a:0 "There is nothing we can do."
-kr.political.22.b:0 "Use our influence to revert his efforts."
+kr.political.22.t:0 "Un ministre soutient son idéologie"
+kr.political.22.d:0 "Notre gouvernement actuel contient un ministre qui appartient à une idéologie différente, il a commencé à soutenir sa propre idéologie qui a nui à la popularité de notre propre parti, nous devons agir maintenant si nous voulons renverser ses actions. "
+kr.political.22.a:0 "Il n'y a rien que nous puissions faire."
+kr.political.22.b:0 "Utilisez notre influence pour revenir sur ses efforts."
 
-kr.political.23.t:0 "A Minister supports his Ideology"
-kr.political.23.d:0 "Our current government contains a Minister of a different ideology. He has started supporting his own ideology which is damaging our party popularity. We must act now if we are to reverse his actions."
-kr.political.23.a:0 "There is nothing we can do."
-kr.political.23.b:0 "Use our influence to revert his efforts."
+kr.political.23.t:0 "Un ministre soutient son idéologie"
+kr.political.23.d:0 "Notre gouvernement actuel contient un ministre qui appartient à une idéologie différente, il a commencé à soutenir sa propre idéologie qui a nui à la popularité de notre propre parti, nous devons agir maintenant si nous voulons renverser ses actions. "
+kr.political.23.a:0 "Il n'y a rien que nous puissions faire."
+kr.political.23.b:0 "Utilisez notre influence pour revenir sur ses efforts."
 
-### Starting Events ###
-kr.political.24.t:0 "Kaiserreich Alpha 0.4.8 - 'To Russia With Love'"
-kr.political.24.d:0 "The Kaiserreich Team proudly present Kaiserreich Alpha version 0.4.8 - 'To Russia With Love' for Hearts of Iron 4! For months now, our team has worked from every corner of the world to bring this mod to you. We hope you will enjoy playing it as much as we did making it.\n\nFirst off, there are several things we'd like to point out regarding our new mechanics: if you check the politics tab of your country, you'll see we added all kinds of exciting new things. Keep in mind that your stability level is directly influenced by your Political Power balance (Positive PP = GOOD, negative PP = BAD), so keep an eye on that! \n\nSecond, you should also be aware that the mod is designed with the assumption that the player will always annex all possible states in peace treaties, so you should make sure to do that!\n\nFinally, we'd like to remind you this is still alpha, so expect bugs, crashes and various headaches. If (...when...) you encounter any of these, please report them on steam, our discord channel, or on our section of the Paradox forums. If you have any other questions, don't hesitate to ask us, but please check the in game FAQ first.\n\nEnjoy! \n                - The KR4 Team"
-kr.political.24.a:0 "Thank you Kaiserreich team!"
-kr.political.24.b:0 "Tell me more about this exciting new stability system..."
-kr.political.24.c:0 "But wait I have more questions... (Go to FAQ)"
-kr.political.24.e:0 "I want to go wild!"
+### Commencer les événements ###
+kr.political.24.t:0 "Kaiserreich Alpha 0.6.2 - 'Le cadeau de Podcat'"
+kr.political.24.d:0 "L'équipe de Kaiserreich est fière de présenter la version 0.6.2 de Kaiserreich Alpha - 'Le cadeau de Podcat' pour Hearts of Iron 4 Depuis des mois maintenant, notre équipe travaille de tous les coins du monde pour apporter ce mod Nous espérons que vous apprécierez le jeu autant que nous l'avons fait.Vous devez également être conscient que le mod est conçu avec l'hypothèse que le joueur annexera toujours tous les états possibles dans les traités de paix, donc vous devriez vous assurer de faire ça! \ n \ nNous aimerions aussi vous rappeler que c'est encore Alpha, alors attendez-vous à des bugs, des crashs et des maux de tête ... Si (... quand ...) vous en rencontrez, veuillez les signaler sur notre bug GitHub Si vous avez d'autres questions, n'hésitez pas à nous poser des questions, mais veuillez d'abord consulter la FAQ dans le jeu. \ n \ nEnrichissez! \ n - L'équipe KR4, liste des équipes trouvées dans le générique "
+kr.political.24.a:0 "Merci équipe Kaiserreich!"
+# kr.political.24.b:0 "En savoir plus sur ce nouveau système de stabilité passionnant ..."
+kr.political.24.c:0 "Les gars ont-ils une FAQ super utile?"
+kr.political.24.e:0 "Je pense qu'il ne devrait pas y avoir de faction rejoignant les limites ..."
 
-kr.political.25.t:0 "Meet the Team"
-kr.political.25.d:0 "Many thanks to the Kaiserreich HOI4 team:\n\n~mw~, Ace of Aces, Ahearne, AllyJammy, Anbory, Augenis, Axelius, BattleSarge, Blackfalcon501, Chef Exellence, CrazyZombie, CulturalMarxist, DDago, Dedlift, Delincious, Denizz, DoctorPainkiller, Dskod1, Dylanstrategie, Esmaerla, Fatherlorris, Firefly, Flamefang, Gibzit, Hayro, Herkles, hyvinvointinionvaakalaudalla, Indyclone, Jak, Kallar, Kornilov, Mark, MattTheCzar, Miinda, Mikus, MonarchistKaiser, Nijato, OMD, PPsyrius, Packard, Phil, Pinback, Rebi-chan, Rylock, Selim, Skullcrusher, Strategia, Tatiana, TheBeezKneez, TheBlackWinds, VincentDN, Wyandotte, Zankoas and Zarasophos.\n\nSpecial thanks go to our past developers in the HOI2 and DH versions, to Sarmatia1871 who created this marvellous universe, and of course to the fans, who have stuck with us for over 10 years. We could not have got here without you guys. Thank you for playing Kaiserreich!\n\nP.S. For full credits and a list of the mods incorporated into Kaiserreich, check out the new credits file in the mod!"
-kr.political.25.a:0 "Great job!"
-kr.political.25.b:0 "I don't even like this mod..."
+# kr.political.27.t:0 "Le système de stabilité"
+# kr.political.27.d:0 "Kaiserreich for HOI4 introduit une nouvelle mécanique: le système de stabilité La stabilité est présente sous la forme de lois que vous pouvez voir dans votre écran politique à côté des lois commerciales. Si vous passez sous la barre des -50PP, vous perdrez de la stabilité, moins de -250 et vous perdrez beaucoup de stabilité et moins de 500 et vous serez dans une catastrophe, vous voulez éviter cela, croyez-moi. Au contraire, vous serez en mesure d'atteindre une très faible stabilité si vous êtes au-dessus de -500, une faible stabilité si vous êtes au-dessus de -250 et une stabilité moyenne si vous êtes au-dessus de -50. \ N \ nGoogle jusqu'à la bonne et très bonne stabilité est un peu différent, vous devez obtenir 150PP et ensuite sélectionner la loi correspondante dans l'écran de stabilité.Vous recevrez un rappel la première fois que cela est possible.Si vous passez sous 0PP, vous perdrez les niveaux de stabilité positifs. \ n \ nVeuillez garder à l'esprit que les événements qui ajoutent ou enlèvent votre stabilité ne se déclenchent pas instantanément et peuvent prendre plusieurs mois. o feu. Enfin, si vous oubliez ce que vous lisez ici, vous pourrez voir les exigences pour chaque niveau en tant que bulles d'aide si vous survolez les idées de stabilité dans l'écran de la loi, mais il n'y a pas de raison que vous oublieriez?
+# kr.political.27.a:0 "Je voulais que PP ..."
 
-kr.political.27.t:0 "The Stability System"
-kr.political.27.d:0 "Kaiserreich for HOI4 introduces a new mechanic: The Stability System. Stability is present in the form of laws which you can see in your political screen next to the trade laws. These are influenced by your political power. Having under -50PP will cause you to go down to low stability, under -250 and you'll go to very low stability and under -500 and you will be in a disaster; you want to avoid that, trust me. On the contrary you'll be able to go up to very low stability if you're above -500, to low stability if you're above -250 and to average stability if you're above -50. \n\nGoing up up to good and very good stability is a bit different, you must get 150PP and then select the corresponding law in the stability screen. You'll get a reminder the first time this is possible. If you ever go under 0PP you'll lose the positive stability levels. \n\nPlease keep in mind that the events adding or removing your stability don't instantly fire and can take several moths to fire. Finally, if you happen to forget what you read here you'll be able to see the requirements for each level as tooltips if you hover over the stability ideas in the law screen, but there is no reason that you would forget right?"
-kr.political.27.a:0 "I wanted that PP..."
+kr.political.33.t:0 "Ce n'est pas très gentil!"
+kr.political.33.d:0 "Si vous n'aimez pas Kaiserreich, pourquoi êtes-vous ici?"
+kr.political.33.a:0 "C'est une très bonne question ..."
+kr.political.33.b:0 "Je l'ai aimé le 1er avril ..."
 
-kr.political.33.t:0 "That's not very nice!"
-kr.political.33.d:0 "If you don't like Kaiserreich, why are you here?"
-kr.political.33.a:0 "That is a very good question..."
-kr.political.33.b:0 "I liked it back on April 1st..."
+kr.political.34.t:0 "FAQ"
+kr.political.34.d:0 "Comment se fait-il que je ne puisse pas marronner quoi que ce soit? \ nTous les puppets se font maintenant via des évènements ou des focus plutôt que par des conférences de paix. \ n \ nQuand le prochain patch sortira-t-il? une grande version tous les trois mois, et bien sûr des correctifs à chaud partout où cela est nécessaire. \ n \ nPourquoi certains des modèles sont-ils noirs? \ nNous utilisons des ressources DLC dans notre mod, donc si vous n'avez pas ce DLC, vous obtiendrez Les textures vierges ne vous inquiètent pas, ce ne sont que des erreurs esthétiques.Nous travaillons sur la mise en place de textures de sauvegarde pour éviter cela, alors gardez un œil sur les mises à jour. \ n \ nJe veux faire des tests de bugs / art / musique / codage pour KR, où puis-je m'inscrire? \ nMagnifique! Dirigez-vous vers notre discorde, lien sur les forums, et le message Zankoas. \ n \ nUpdate X a cassé mes sauvegardes! \ nCeci n'est pas une question, mais si vous rencontrez des problèmes, essayez de charger la sauvegarde, sauvegardez tout de suite sans interruption, puis rechargez en utilisant cette nouvelle sauvegarde.Ne pas utiliser Ironman peut aussi parfois aider.Si tout échoue, rappelez-vous que les versions antérieures sont disponibles en téléchargement sur les forums KR4. \ n \ n Y a-t-il d'autres parties sur KR4? \ nLa seule autre partie est le mod de musique, qui peut être trouvé dans la description de l'atelier de vapeur ou sur les forums. Tu devrais absolument aller le chercher.
+kr.political.34.a:0 "Est-ce que tu dois enlever ce PP?"
 
-kr.political.34.t:0 "FAQ Part 1"
-kr.political.34.d:0 "Should I play with historical focus on or off?\nWhile it shouldn't make any difference, we recommend you play with it on as it may help avoid bugs in very rare cases.\n\nHow come I can't puppet anything?\nAll puppetting is now done via events or focuses rather than through peace conferences.\n\nWhen will the next patch come out?\nWe aim for one big release every two months, and of course hot-fixes wherever needed.\n\nWhy are some of the models black?\nWe use some DLC assets in our mod, so if you don't have that DLC, you will get blank textures, don't worry though, they are just cosmetic errors. We are working on setting up backup textures to avoid this, so keep an eye out for updates.\n\nI want to do bug testing/art/music/coding for KR, where can I sign up?\nWonderful! Head to our discord, link on the forums, and message either ~mw~, Nijato or Zankoas.\n\nUpdate X broke my saves!\nThat isn't a question, but if you are having issues, try loading the save, saving again straight away without unpausing, then reloading using that new save. Not using ironman can also sometimes also help. If all else fails, remember past version are available for download on the KR4 forums.\n\nAre there any other parts to KR4?\nThe only other part is the music mod, which can be found in the steam workshop description or on the forums. You should definitely go get it."
-kr.political.34.a:0 "I will, I will."
+# kr.political.35.t:0 "FAQ Partie 2"
+# kr.political.35.d:0 "DLC est-il nécessaire? \ nNon, bien que nous utilisions bien entendu les fonctionnalités DLC, nous n'en ferons pas une exigence pour profiter de KR4. \ n \ nIl y a des bugs connus Je devrais être au courant de? \ NNote ceci n'est pas une liste exhaustive des bogues de jeu, juste ceux que nous sommes conscients de et n'a pas été en mesure de réparer. \ N1 Très rarement, de légères modifications aux fichiers mod peuvent causer tous Faire un nouvel enregistrement ou revenir à l'ancienne version évite ce problème. \ n \ nJ'ai trouvé un bogue, comment puis-je rendre le rapport de bogue aussi utile que possible? \ nReporter une seule fois par patch Nous sommes des gens occupés, donc ne vous inquiétez pas si cela nous prend quelques jours pour répondre.Les forums de paradoxe rapport de bogue, ou le fil de discussion de bogue de l'atelier de vapeur sont les meilleurs endroits pour signaler, mais s'il vous plaît ne le signaler que sur l'un d'entre eux Essayez de vérifier les dernières pages pour voir si quelqu'un d'autre l'a signalé.Plus de détails, mieux, les captures d'écran et les économies sont très appréciés.Essayez aussi de revenir quelques jours après le rapport, nous aurions pu poser une question sur votre bug ou simplement vous remercier. Et comme toujours, nous apprécions vraiment que vous preniez le temps de faire de KR4 le meilleur possible! "
+# kr.political.35.a:0 "Est-ce que tu dois enlever ce PP?"
 
-kr.political.35.t:0 "FAQ Part 2"
-kr.political.35.d:0 "Is any DLC required?\nNo, while we will of course make use of DLC features, we won't make it a requirement to enjoy KR4.\n\nAre there any known bugs I should be aware of?\nNote this isn't an exhaustive list of in game bugs, just once that we are aware of and haven't been able to fix.\n1. Very rarely, slight changes to mod files can cause all events to refire when loading a save. Making a new save or reverting back to the old version avoids this issue.\n\nI found a bug, how can I make by bug report as helpful as possible?\nReport it only once per patch, we are busy people so don't worry if it takes us a few days to answer. The paradox forums bug report thread, or the steam workshop bug report thread are the best places to report, but please only report it on one of them. Try and check the last few pages to see if someone else has reported it. The more detail the better; screen shots and saves are much appreciated. Also try and check back a few days after reporting, we might have asked a question about your bug or just want to thank you. And as always, we really appreciate you taking the time to make KR4 the best it can be!"
-kr.political.35.a:0 "Do you have to take that PP away?"
+kr.political.28.t:0 "Evénements News"
+kr.political.28.d:0 "C'est le président de l'International News Tribune qui parle.Kaiserreich est un mod profondément enraciné dans la tradition et la narration, véhiculé par des événements, des foyers nationaux et d'autres moyens.Mais en tant que joueur, vous pourriez Vous ne le réalisez même pas, car la plupart des événements dans les pays étrangers sont inconnus à vos yeux, nous avons donc créé un système d'informations sur les événements majeurs survenus récemment dans d'autres pays. comprendre le sens et les raisons des événements du monde, et ils sont aussi jolis et des trucs. \ n \ nCependant, vous pouvez être un testeur de jeu ou avoir une dépendance grave avec ceci étant votre 1000e jeu cette semaine, ou juste un joueur qui ne veut pas de popups dans votre visage tout le temps, donc vous avez également la possibilité de désactiver complètement cette fonction ou de ne permettre que les événements importants de nouvelles.
+kr.political.28.a:0 "Je veux tout savoir, TOUT!"
+kr.political.28.b:0 "Ne m'informez que des événements majeurs."
+kr.political.28.c:0 "Je ne veux pas de ce non-sens."
+kr.political.28.e:0 "Je n'aime même pas ce mod ..."
 
-kr.political.28.t:0 "News Events"
-kr.political.28.d:0 "This is the president of the International News Tribune speaking. Kaiserreich is a mod deeply entrenched in lore and storytelling, conveyed through events, national focuses and other means. However, as the player, you might not even realise this, because most of the happenings in foreign countries are unknown to your eyes. Therefore we have created a system of news events that tell you about the major events that happened recently in other countries. They contain titbits of lore to help you understand the meaning and reasons for the events of the world, and they are also pretty and stuff. \n\nHowever, you may be a game tester or have a serious addiction with this being your 1000th game this week, or just a player who doesn't want popups in your face all the time, so you also have the option to turn this feature off entirely or allow only the important news events to fire. It's your choice..."
-kr.political.28.a:0 "I want to know everything, EVERYTHING!"
-kr.political.28.b:0 "Only inform me about major events."
-kr.political.28.c:0 "I want none of this nonsense."
+#Moved dans un fichier de remplacement de temp: zzz_KR_Temp_Political_l_english.yml
+# kr.political.27.t:0 "Cornflakes et DLC"
+# kr.political.27.d:0 "Ai-je besoin de réveiller le tigre?" Qu'en est-il de la mort ou du déshonneur? L'univers finira-t-il par se décomposer? \ nNon, vous n'avez pas besoin de réveiller le Tigre ou tout autre DLC pour jouer Kaiserreich Alpha 0.6 - 'Garibaldi's Nightmare', bien que oui, l'univers se terminera par la décomposition du vide. \ N \ nNous avons beaucoup réfléchi et beaucoup parlé de DLC au sein de l'équipe et de ce que devrait être notre politique. conclusion et donc nous pouvons changer les choses pour 0,7, nous ne pouvons pas.Mais jusque-là, profiter de Kaiserreich avec tous, certains ou pas DLC.Cela étant dit, si vous avez DLC par tous les moyens l'utiliser et profiter de ces modèles d'unités brillantes et associés caractéristiques! \ n \ nVeuillez également noter que le travail avec 1.5 'Cornflakes' est loin d'être terminé, tant de nations n'utilisent pas encore pleinement la stabilité, les décisions, etc. C'est quelque chose que nous allons travailler pour le prochain patch.
+# kr.political.27.a:0 "Merci pour toutes les infos, mais puis-je jouer maintenant?"
 
-kr.political.36.t:0 "Where is the April Fools Joke?"
-kr.political.36.d:0 "In order to prevent multiplayer ruining, this event now longer automatically activates the April fools joke. Instead, all you have to do is open the in game console and type: "event april.1", simple!\n\nIf you would like to use it in multiplayer, head into the game files, go to extra, and then to April Fool's Enabled, then copy KR_Political.txt from there to the events folder. To return to default, simply repeat the above but from extra/Normal instead. All other players must do the same in order to join you. Once you have done this, come back to this event and the April fools joke will trigger."
-kr.political.36.a:0 "Got it!"
+kr.political.36.t:0 "Où est la farce d'imbéciles d'avril?"
+kr.political.36.d:0 "Afin d'empêcher Kaiserreich de ruiner les jeux multijoueurs, cet événement n'active plus automatiquement la blague des Fous d'Avril, il suffit d'ouvrir la console de jeu et de taper:" événement avril .1 ", simple! \ N \ nSi vous souhaitez l'utiliser en mode multijoueur, allez dans les fichiers du jeu, allez à l'extra, puis au poisson d'avril, puis copiez le fichier KR_Political_Extra.txt dans le dossier des événements. les joueurs doivent faire la même chose pour vous rejoindre.Une fois que vous avez fait cela, revenez à cet événement et la blague des poissons d'avril se déclenchera. "
+kr.political.36.a:0 "J'ai compris!"
 
-kr.political.37.t:0 "Want to remove faction joining limits?"
-kr.political.37.d:0 "You want to ignore the lore of KR? You want to deify hundreds of years of history? You want to break the cosmos? Well we want stop you...open the in game console and type: "event kr.political.38" and you can join factions to your hearts content. IF YOU USE THIS THERE WILL BE BUGS AND CRAZY AI BEHAVIOUR! Please don't report bugs you find in this mode.\n\nIf you would like to use it in multiplayer, head into the game files, go to extra, and then to No Faction Join Limits, then copy KR_Political.txt from there to the events folder. To return to default, simply repeat the above but from extra/Normal instead. All other players must do the same in order to join you. Once you have done this, come back to this event and faction joining limits will be removed."
-kr.political.37.a:0 "I am a bad person and should feel bad."
+kr.political.37.t:0 "Voulez-vous supprimer les limites de jonction des factions?"
+kr.political.37.d:0 "Vous voulez ignorer la tradition de KR? Vous voulez défier des centaines d'années d'histoire? Vous voulez casser le cosmos? Eh bien, nous ne vous arrêterons pas ... ouvrir le jeu console et tapez: "event kr.political.38" et vous pouvez joindre des factions au contenu de votre coeur.Si vous utilisez ce il y aura des bogues! S'il vous plaît ne pas signaler les bugs que vous trouvez dans ce mode. \ n \ nSi vous souhaitez Pour l'utiliser en mode multijoueur, dirigez-vous vers les fichiers du jeu, allez en extra, puis sur No Faction Join Limits, puis copiez KR_Political_Extra.txt dans le dossier events.Tous les autres joueurs doivent faire de même pour vous rejoindre. vous avez fait cela, revenez à cet événement et les limites de la faction seront supprimées. "
+kr.political.37.a:0 "Je suis une mauvaise personne et je devrais me sentir mal."
 
-kr.political.38.t:0 "Remove Faction Joining Limits"
-kr.political.38.d:0 "This event will remove faction joining limits for all players, if you didn't activate this event on purpose please submit a bug report. Note it may take a few days to apply."
-kr.political.38.a:0 "I CAN GO WILD!"
+kr.political.38.t:0 "Supprimer les limites de regroupement de factions"
+kr.political.38.d:0 "Cet événement supprimera les limites de participation des factions pour tous les joueurs, si vous n'avez pas activé cet événement, merci de soumettre un rapport de bug Notez que cela peut prendre quelques jours pour postuler."
+kr.political.38.a:0 "Je peux aller sauvage!"
 
-### Remove Independent War Event ###
-kr.political.30.t:0 "End of Our Independent War"
-kr.political.30.d:0 "Now that our independent war is over we can call our allies to war again."
-kr.political.30.a:0 "Understood"
+### Supprimer événement de guerre indépendant ###
+kr.political.30.t:0 "Fin de notre guerre indépendante"
+kr.political.30.d: "Maintenant que notre guerre indépendante est terminée, nous pouvons appeler à nouveau nos alliés à la guerre."
+kr.political.30.a:0 "Compris"
 
-### Gamestart Opinion Modifiers ###
-kr.political.40.t:0 "Setting Opinion Modifiers"
-kr.political.40.d:0 "If you can see this, make a bug report!"
-kr.political.40.a:0 "Seriously, report it."
+### Gamestart Modificateurs d'opinion ###
+kr.political.40.t:0 "Définition de modificateurs d'opinion"
+kr.political.40.d:0 "Si vous pouvez le voir, faites un rapport de bug!"
+kr.political.40.a:0 "Sérieusement, signalez-le."
 
-KR_different_ideology:0 "Different Ideology"
-KR_similar_ideology:0 "Similar Ideology"
-KR_same_ideology:0 "Same Ideology"
+KR_different_ideology:0 "Idéologie différente"
+KR_similar_ideology:0 "Idéologie similaire"
+KR_same_ideology:0 "Même Idéologie"
 same_ruling_party:0 "Base"
 different_party_types:0 "Base"
+KR_ideology_allowed:0 "Ministre autorisé pour l'idéologie du pays"
+KR_factional_rivalry:0 "Rivalité de Faction"
+Minister_available:0 "Le ministre est disponible pour ce type de gouvernement"
