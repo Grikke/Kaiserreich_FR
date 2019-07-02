@@ -1,5 +1,4 @@
 ﻿l_french:
-
  PERMISSION_CONTESTED:0 "Contesté"
  PERMISSION_CONTESTED_DESC:0 "En raison de la guerre des contrôleurs: $ SIDE1 | H $ vs $ SIDE2 | H $"
  PERMISSION_ENEMY:0 "Ennemi"
@@ -19,10 +18,8 @@
  PANAMA_CANAL:0 "Canal Panamá"
  KAISER-WILHELM-KANAL:0 "Kaiser-Wilhelm-Kanal"
  BOSPHORUS_STRAIT:0 "Boğaziçi"
+ disable_canal_tt:0 "§Ce canal a été partiellement démoli et doit être réparé avant qu'il puisse à nouveau être traversé par des navires."
  DARDANELLES:0 "Dardanelles"
  SHIMONOSEKI:0 "Shimonoseki-kaikyō"
  MALACCA_STRAIT:0 "Straße von Malakka"
  MESSINA_STRAIT:0 "Stretto di Messina"
-
-
- disable_canal_tt:0 "§Ce canal a été partiellement démoli et doit être réparé avant qu'il puisse à nouveau être traversé par des navires."
