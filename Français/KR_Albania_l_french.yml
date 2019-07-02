@@ -1,0 +1,29 @@
+﻿l_english:
+
+### Events ###
+albania.1.t:0 "La Principauté d'Albanie"
+albania.1.d:0 "Durant la Première Guerre des Balkans en 1912 le congrès national Albanien à Vlore a déclaré l'indépendance du pays, qui fût accepté par les grandes puissances en 1913 sous la condition que Wilhelms de Wied soit accepté comme prince. L'éclatement de la Weltkrieg présentait de nouveaux problèmes pour le pays alors que l'Autriche-Hongrie a demandé que les troupes albaniennes combattent à leurs côtés. Quand le Prince Wilhelm a refusé, citant la neutralité de Albanie dans le Traité de Londres, la rente qu'il recevait jusqu'alors fût coupée. Le régime s'effondra et le Prince Wilhelm quitta le pays le 3 septembre 1914 et rejoignit l'Armée Impériale Allemande, même si il était officiellement toujours reconnu le Chef d'Etat de Albanie. En 1921, la Paix dans l'Honneur détermina officiellement le statut de l'Albanie; une principauté restauré sous l'autorité du Prince Wilhelm, plus sous l'influence autrichienne, mais comme un vassal du Calife Ottoman. Même si des révoltes éclatèrent, le Prince Wilhelm réussit à reprendre contrôle du pays grâçe au soutien Ottoman.Cependant, le prix à payer fût le contrôle par les Ottomans de la politique interne, tel que forcer le Prince à nommer l'ambitieux Ahmed Zogu en tant que premier ministre."
+albania.1.a:0 "Gloire à l'Albanie!"
+
+albania.2.t:0 "Le destin de l'Albanie"
+albania.2.d:0 "Pour de nombreuses années, les Ottomans nous ont gouverné dans le cadre d'un accord précaire avec l'Allemagne pour maintenir Wilhelm sur le trône. Aujourd'hui, les Ottomans sont confrontés à de nouveaux problèmes, et Zog s'apprête à revendiquer le trône une fois pour toutes afin d'établir une Albanie libre."
+albania.2.a:0 "Renversons Wilhelm et choisissons Zog comme dirigeant de tous les Albaniens!"
+albania.2.b:0 "Absurde! Wilhelm est aimé par le peuple!"
+
+albania.3.t:0 "Wilhelm d'Albanie a été renversé!"
+albania.3.d:0 "Pour de nombreuses années, nous avons gouverné l'Albanie dans le cadre d'un accord précaire avec l'Allemagne pour maintenir Wilhelm sur le trône. Aujourd'hui, l'albanien Zog a renversé Wilhelm par un coup d'état. Comment devrions nous réagir à cette situation chaotique ?"
+albania.3.a:0 "Reconnaissons Zog comme le nouveau roi, et libérons l'Albanie "
+albania.3.b:0 "Blasphème ! Ecrasons ce morveux !"
+
+albania.4.t:0 "La rébellion Albanienne est un succès!"
+albania.4.d:0 "Les forces Albaniennes commandées par Ahmed Zogu, qui s'est nommé Roi Zog I avec arrogance, a pris contrôle de l'Albanie. Nos garnisons ont été fait capturées, et certains de nos généraux nous avertissent que tenter de recapturer notre Wilaya pourrait donner lieu à un carnage pour un intérêt limité. Devrions nous reconnaître l'indépendance de l'Albanie?"
+albania.4.a:0 "Acceptons leur indépendance..."
+albania.4.b:0 "Jamais!"
+
+albania.5.t:0 "La Campagne d'Albanie est terminée"
+albania.5.d:0 "Après que les albaniens aient tenté de résister à notre gouvernance bienveillante, nous commencèrent une campagne pour les remettre à leur place. A présent, l'Albanie est à nouveau entre nos mains."
+albania.5.a:0 "Ils ne semblent pas pouvoir se gouverner, nous le ferons pour eux."
+
+albania.6.t:0 "Les Ottomans ont été vaincus!"
+albania.6.d:0 "Quel jour glorieux! Nous avons défait la garnison ottomane !"
+albania.6.a:0 "Liri e Shqiperise! Vive l'Albani libre!"
