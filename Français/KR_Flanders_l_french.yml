@@ -246,10 +246,10 @@ flnrev.3.d:0 "Afin de préserver leur pouvoir et de maîtriser la situation dans
 flnrev.3.a:0 "La situation s'aggrave."
 
 flnrev.4.t:0 "Divisions au sein de l'Armée de Libération"
-flnrev.4.d:0 "L'Assemblée étant prise en otage, l'armée de Libération est de plus en plus en proie à des conflits internes et à une direction divisée.\n\nMené par Charles Claser, la Légion secrète soutient la dissolution du Conseil flamand et la création d'un nouvel état flamand. Le Frontbeweging, par contre, composé principalement d'anciens combattants de la Weltkrieg, se tient aux côtés du Conseil flamand et a arraché des hommes à l'effort cumulé pour soutenir la Vlaamse Wacht. Le Geuzengroep est déchiré entre ses membres fondateurs qui faisaient partie de la Vlaamse Wacht et les partisans recrutés qui se sont battus pour des raisons anti-allemandes et de mécontentement général envers le Conseil flamand.\n\n\Une quatrième faction a également émergé pendant la rébellion, composée principalement de volontaires néerlandais et de sympathisants de la Grande-Néerlande. Bien que leur nombre soit limité, le soutien de l'armée néerlandaise et une impasse entre les autres factions pourraient aboutir à leur victoire. Sans fin en vue, les différentes factions cherchent à désarmer les autres et à utiliser l'influence de l’église et de l’état pour atteindre leurs objectifs."
+flnrev.4.d:0 "L'Assemblée étant prise en otage, l'armée de Libération est de plus en plus en proie à des conflits internes et à une direction divisée.\n\nMené par Charles Claser, la Légion secrète soutient la dissolution du Conseil flamand et la création d'un nouvel état flamand. Le Frontbeweging, par contre, composé principalement d'anciens combattants de la Weltkrieg, se tient aux côtés du Conseil flamand et a arraché des hommes à l'effort cumulé pour soutenir la Vlaamse Wacht. Le Geuzengroep est déchiré entre ses membres fondateurs qui faisaient partie de la Vlaamse Wacht et les partisans recrutés qui se sont battus pour des raisons anti-allemandes et de mécontentement général envers le Conseil flamand.\n\n\Une quatrième faction a également émergé pendant la rébellion, composée principalement de volontaires néerlandais et de nationalistes Thiois. Bien que leur nombre soit limité, le soutien de l'armée néerlandaise et une impasse entre les autres factions pourraient aboutir à leur victoire. Sans fin en vue, les différentes factions cherchent à désarmer les autres et à utiliser l'influence de l’église et de l’état pour atteindre leurs objectifs."
 flnrev.4.a:0 "La Légion secrète obtient la majorité."
 flnrev.4.b:0 "Le Frontbeweging l'emporte sur le Geuzengroep."
-flnrev.4.c:0 "Les partisans de la Grande-Néerlande renforcent leur pouvoir."
+flnrev.4.c:0 "Les nationaliste Thiois renforcent leur pouvoir."
 
 #Secret Legion
 
@@ -356,27 +356,27 @@ flnrev.612.a:0 "It's finally time for elections."
 
 #Groot-Nederlandisten
 
-flnrev.71.t:0 "The Groot-Nederlandisten Grow in Power"
-flnrev.71.d:0 "Due to the endless bickering between the other factions, the Groot-Nederlandisten have been able to massive increase their number of supporters by attracting Dutch immigrants and intellectuals from both Ghent and Leuven. While they are still the smallest faction in the Liberation Army, they are starting to sway popular opinion by promoting the Flemish unification with the Netherlands and a stronger global Flanders. Without the armed support that the other factions enjoy however, they are unlikely to be able to achieve these goals. Therefore support from the Dutch will be required, who themselves are suffering from their own political issues."
-flnrev.71.a:0 "We must request Dutch aid!"
+flnrev.71.t:0 "Les nationalistes Thiois grandissent en puissance"
+flnrev.71.d:0 "En raison des querelles interminables entre les autres factions, les nationalistes Thiois ont réussi à augmenter massivement le nombre de leurs partisans en attirant des immigrants néerlandais et des intellectuels de Gand et de Louvain. Bien qu'ils soient encore la plus petite faction de l'Armée de libération, ils commencent à influencer l'opinion publique en promouvant l'unification de la Flandre avec les Pays-Bas et une Flandre mondiale plus forte. Cependant, sans l'appui armé dont bénéficient les autres factions, il est peu probable qu'elles soient en mesure d'atteindre ces objectifs. C'est pourquoi le soutien des Néerlandais, qui souffrent eux-mêmes de leurs propres problèmes politiques, sera nécessaire."
+flnrev.71.a:0 "Nous devons demander l'aide des Pays-Bas !"
 
-flnrev.72.t:0 "The Flemish Groot-Nederlandisten Approach Us"
-flnrev.72.d:0 "After the recent independence of Flanders and the dissolution of the old Flandern-Walloon union, divides between the Council and the Liberation Army have been growing leading to increased unrest. A smaller faction in the Flemish Liberation Army that has emerged from the maelstrom is the Groot-Nederlandisten movement, a group which openly strives for Flemish unification with the Netherlands. While their member count is lower than that of other movements, they enjoy a large intellectual base in Leuven and Ghent that is requesting our government step in and send them military support."
-flnrev.72.a:0 "Support the Groot-Nederlandisten."
-flnrev.72.b:0 "Withdraw all connections to the movement."
+flnrev.72.t:0 "Les nationalistes Thiois flamands nous approchent"
+flnrev.72.d:0 "Après l'indépendance récente de la Flandre et la dissolution de l'ancienne Union flamande et wallonne, les divisions entre le Conseil et l'Armée de Libération se sont accentuées, ce qui a entraîné une augmentation des troubles. Une faction plus petite de l'Armée de Libération flamande, issue du maelström, est le mouvement nationaliste Thiois, un groupe qui lutte ouvertement pour l'unification de la Flandre avec les Pays-Bas. Bien que leur nombre de membres soit inférieur à celui des autres mouvements, ils jouissent d'une large base intellectuelle à Louvain et à Gand qui demande que notre gouvernement intervienne et leur envoie un soutien militaire."
+flnrev.72.a:0 "Soutenez les nationalistes Thiois."
+flnrev.72.b:0 "Coupez toutes les connexions au mouvement."
 
-flnrev.73.t:0 "The Dutch Refuse Support"
-flnrev.73.d:0 "Our request for aid has been denied by the Dutch and they have severed all connections with the resistance group. With no chance of success on their own, the movement will now inevitably have to pick a side in the conflict between the Secret Legion and the Frontbeweging in order to survive. While siding with the Secret Legion may guarantee a shot at winning the coming elections and free promotion of the movement, siding with the Frontbeweging has its own benefits. Van Severen has already shown strong tendencies towards a pro-Dutch unification stance and siding with him may fulfill our goals."
-flnrev.73.a:0 "Unite with the Secret Legion."
-flnrev.73.b:0 "The Frontbeweging have our support."
+flnrev.73.t:0 "Les Néerlandais refusent de nous aider"
+flnrev.73.d:0 "Notre demande d'aide a été rejetée par les Néerlandais, qui ont coupé tout lien avec le groupe de résistance. Sans aucune chance de succès, le mouvement devra inévitablement choisir un camp dans le conflit entre la Légion secrète et le Frontbeweging afin de survivre. Bien que se ranger du côté de la Légion secrète puisse garantir une chance de gagner les prochaines élections et la libre promotion du mouvement, se ranger du côté du Frontbeweging a ses propres avantages. Van Severen a déjà fait preuve d'une forte tendance en faveur de l'unification néerlandaise et se ranger de son côté pourrait répondre à nos objectifs."
+flnrev.73.a:0 "Unissez-vous à la Légion secrète."
+flnrev.73.b:0 "Les Frontbeweging ont notre soutien."
 
-flnrev.74.t:0 "The Dutch Send Support"
-flnrev.74.d:0 "The Dutch have answered our call and decided to send weapons, equipement and experienced personnel to assist our movement in securing Flanders. With discussion escalating between the Frontbeweging and the Secret Legion, now is our time to strike and paralyse both movements at the same time, while the Dutch army prepares for their attack."
-flnrev.74.a:0 "The Netherlands shall be united once more!"
+flnrev.74.t:0 "Les Néerlandais envoient du soutien"
+flnrev.74.d:0 "Les Néerlandais ont répondu à notre appel et ont décidé d'envoyer des armes, du matériel et du personnel expérimenté pour aider notre mouvement à sécuriser la Flandre. Avec l'escalade des discussions entre la Légion secrète et la Légion secrète, le moment est venu de frapper et de paralyser les deux mouvements en même temps, pendant que l'armée néerlandaise se prépare à leur attaque."
+flnrev.74.a:0 "Les Pays-Bas seront à nouveau unis !"
 
-flnrev.75.t:0 "The Dutch Military Moves In!"
-flnrev.75.d:0 "With supplies and operations of the resistance movements severely damaged, elements of the Dutch army have quickly been able to secure the cities of Antwerp and Ghent with divisions already moving into Brussels. The Vlaamse Wacht was no match for our fully supplied army and was quickly forced to lay down its weapons as well, transferring power to the Dutch forces. Members of the Groot-Nederlandisten movement have been appointed by the Dutch authorities as a transitional government while Amsterdam awaits the inexorable German response."
-flnrev.75.a:0 "The Netherlands are united once more!"
+flnrev.75.t:0 "L'armée néerlandaise intervient !"
+flnrev.75.d:0 "Les approvisionnements et les opérations des mouvements de résistance ayant été gravement endommagés, des éléments de l'armée néerlandaise ont rapidement réussi à sécuriser les villes d'Anvers et de Gand avec des divisions déjà installées à Bruxelles. La Vlaamse Wacht n'était pas à la hauteur de notre armée entièrement ravitaillée et fut rapidement contraint de déposer ses armes, transférant ainsi le pouvoir aux forces néerlandaises. Des membres du mouvement nationaliste Thiois ont été nommés par les autorités néerlandaises comme gouvernement de transition, tandis qu'Amsterdam attend la réponse inexorable de l'Allemagne."
+flnrev.75.a:0 "Les Pays-Bas sont une fois de plus unis !"
 
 ### Focuses ###
 
@@ -538,13 +538,13 @@ FLN_German_Monarch_desc:0 "Adalbert has been appointed nominal ruler of Flanders
 FLN_Resistance_Takes_Control:0 "The Resistance Takes Control"
 FLN_Resistance_Takes_Control_desc:0 "The Flemish Council has been forced to abdicate and a temporary government consisting of the most loyal revolutionaries has been put in charge."
 FLN_Flemish_Nationalism_Prevails:0 "Flemish Nationalism Prevails"
-FLN_Flemish_Nationalism_Prevails_desc:0 "The Groot-Nederlandisten and the Germans have both been put down, allowing the resistance to serve a solely Flemish cause."
+FLN_Flemish_Nationalism_Prevails_desc:0 "The nationalistes Thiois and the Germans have both been put down, allowing the resistance to serve a solely Flemish cause."
 FLN_Abolishment_Council:0 "Abolition of the Council"
 FLN_Abolishment_Council_desc:0 "The Council's power reaches far and wide and the corrupt organisation will need to be destroyed by all means necessary to ensure a properly managed Flemish State."
 FLN_Dismantlement_Of_Vlaamse_Wacht:0 "Dissolution of the Vlaamse Wacht"
 FLN_Dismantlement_Of_Vlaamse_Wacht_desc:0 "Not only did the Vlaamse Wacht serve the German King, but they also sided with Van Severen and the power grab of the Council. In order to secure our nation's stability, they must be fully dissolved and integrated into the Rijkswacht."
 FLN_Groot_Nederland_Ambition:0 "Groot-Nederland Ambition"
-FLN_Groot_Nederland_Ambition_desc:0 "The Groot-Nederlandisten movement has been placed into power and is taking all avenues possible to advance the cause of integration into the Netherlands"
+FLN_Groot_Nederland_Ambition_desc:0 "The nationalistes Thiois movement has been placed into power and is taking all avenues possible to advance the cause of integration into the Netherlands"
 FLN_Enact_The_Terneuzen_Treaty:0 "Enact the Treaty of Terneuzen"
 FLN_Enact_The_Terneuzen_Treaty_desc:0 "By enacting the Treaty of Terneuzen we promise to transfer all power to the Dutch government and become a puppet state of Amsterdam until the integration process is done."
 FLN_Accept_Dutch_Constitution:0 "Accept the Dutch Constitution"
