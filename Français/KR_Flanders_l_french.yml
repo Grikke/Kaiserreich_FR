@@ -253,18 +253,18 @@ flnrev.4.c:0 "Les partisans de la Grande-Néerlande renforcent leur pouvoir."
 
 #Secret Legion
 
-flnrev.51.t:0 "Secret Legion Emerges Victorious the Stalemate"
-flnrev.51.d:0 "By sowing discontent in the ranks of the Frontbeweging and winning over the recruits of the Geuzengroep, the Secret Legion has been able to convince enough members of the resistance to their cause to force total disarmament on the other factions. While most of them have agreed with these terms and laid down their weapons, small pockets of radicals still remain throughout the countryside trying to gain the support of farmers and royalist civilians."
-flnrev.51.a:0 "Move on the capital!"
+flnrev.51.t:0 "La Légion secrète sort victorieuse de cette impasse."
+flnrev.51.d:0 "En semant le mécontentement dans les rangs du Frontbeweging et en gagnant les recrues du Geuzengroep, la Légion secrète a réussi à convaincre suffisamment de membres de la résistance à leur cause pour imposer un désarmement total aux autres factions. Alors que la plupart d'entre eux ont accepté ces conditions et ont déposé les armes, il reste encore de petites poches de radicaux dans les campagnes pour tenter d'obtenir le soutien des agriculteurs et des civils royalistes."
+flnrev.51.a:0 "Avancez sur la capitale !"
 
-flnrev.52.t:0 "Clashes Between the Vlaamse Wacht and the Secret Legion"
-flnrev.52.d:0 "The Secret Legion has finally achieved enough control to liberate the Assembly and are moving into Brussels trying to break the Vlaamse Wacht's strangehold over the city and the national leadership. Inside the Assembly, Van Severen is still trying to convince members to support the continuation of the Flemish Council but word is spreading through the ranks that the Libertion Army is moving in."
-flnrev.52.a:0 "The Secret Legion defeats the Vlaamse Wacht."
-flnrev.52.b:0 "The Vlaamse Wacht holds out against the Secret Legion."
+flnrev.52.t:0 "Affrontements entre la Vlaamse Wacht et la Légion secrète"
+flnrev.52.d:0 "La Légion secrète a finalement obtenu assez de contrôle pour libérer l'Assemblée et s'installe à Bruxelles pour tenter de briser l'emprise étrange de la Vlaamse Wacht sur la ville et la direction nationale. A l'intérieur de l'Assemblée, Van Severen essaie toujours de convaincre les membres de soutenir le maintien du Conseil flamand, mais la nouvelle se répand dans les rangs que l'Armée de la Libération est en passe d'arriver."
+flnrev.52.a:0 "La Légion secrète défait la Vlaamse Wacht."
+flnrev.52.b:0 "La Vlaamse Wacht résiste à la Légion secrète."
 
-flnrev.53.t:0 "Liberation of the National Assembly"
-flnrev.53.d:0 "With the defeat of the Vlaamse Wacht, the last power base of the Council has been disbanded and a new government can be established. Rooting out the remnants of their organisation will take time and effort though as last of their supporters still hold out in some of the Flemish villages."
-flnrev.53.a:0 "A provisional government is established."
+flnrev.53.t:0 "Libération de l'Assemblée nationale"
+flnrev.53.d:0 "Avec la défaite de la Vlaamse Wacht, la dernière base du pouvoir du Conseil a été dissoute et un nouveau gouvernement peut être établi. Il faudra du temps et des efforts pour éradiquer les vestiges de leur organisation, même si le dernier de leurs sympathisants résiste encore dans certains villages flamands."
+flnrev.53.a:0 "Un gouvernement provisoire est établi."
 
 #Frontbeweging
 
