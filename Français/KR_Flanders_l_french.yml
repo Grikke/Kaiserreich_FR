@@ -79,7 +79,7 @@ FLN_Grote_Doorsteek:0 "Programme Grote Doorsteek"
 FLN_Import_Foreign_Labour:0  "Travailleurs étrangers"
 FLN_Flemish_Miners:0 "Mineurs flamands"
 
-FLN_Liberation_Army:0 "Armée libératrice"
+FLN_Liberation_Army:0 "Armée de Libération"
 FLN_Succesion_Crisis:0 "Crise de succession"
 
 FLN_Rule_From_Council:0 "Règle absolue émanant du Conseil"
@@ -233,23 +233,23 @@ fln.300.b:0 "La Wallonie et la Flandre ne sont pas faites pour être ensemble !"
 
 #First Days of the Nation
 
-flnrev.1.t:0 "Dissolution of Flanders-Wallonia"
-flnrev.1.d:0 "The nation of Flanders-Wallonia was only shortlived. Beset by widespread corruption, an absolutist monarch and corrosive German favouritism, it was only a matter of time before the powder keg inevitably exploded. Finally the Flemish have left the union and can finally for the first time in recent history celebrate their independence. From Oostende to Brussels to Hasselt Flemish lions are being paraded through the streets and across the nation chants of the Vlaamse Leeuw ring out. Still, such public displays of jubilation are little more than a front for the politics that happens behind closed doors."
+flnrev.1.t:0 "Dissolution de la Flandre-Wallonie"
+flnrev.1.d:0 "La pays de la Flandre-Wallonie n'a été que de courte durée. En proie à une corruption généralisée, à un monarque absolutiste et à un favoritisme allemand corrosif, ce n'était qu'une question de temps avant que le baril de poudre n'explose inévitablement. Enfin, les Flamands ont quitté l'union et peuvent enfin, pour la première fois dans l'histoire récente, célébrer leur indépendance. D'Ostende à Bruxelles en passant par Hasselt, les lions flamands défilent dans les rues et à travers les chants nationaux du Vlaamse Leeuw. Pourtant, ces manifestations publiques de jubilation ne sont guère plus qu'une façade pour la politique qui se déroule à huis clos.."
 flnrev.1.a:0 "Vlaanderen de Leeuw!"
 
-flnrev.2.t:0 "Foundation of the Flemish National Congress"
-flnrev.2.d:0 "With the German king ousted and the nation liberated, the once united parties of the revolution are slowly breaking apart. The Flemish Council claims that they are the only legitimate government and that only they should lead the nation until things have calmed down. The Catholic Party, the largest in the nation is divided with members of the Council supporting this regency and members who were seated in the pro-German Parliament. Neither group wishes to give up their power or allow their administrative organs to be abolished. The VWP is resolutely against any continuation of the old system as it forbade their participation and the party is continuing to bolster relations with the still armed revolutionaries. The Liberation army meanwhile is torn between allegiance to the Catholic Party and their self appointed leaders who are vying for control of the state."
-flnrev.2.a:0 "The First National Congress ends in failure."
+flnrev.2.t:0 "Fondation du Congrès national flamand"
+flnrev.2.d:0 "Avec l'éviction du roi allemand et la libération de la nation, les partis autrefois unis de la révolution se désagrègent lentement. Le Conseil flamand prétend qu'ils sont le seul gouvernement légitime et qu'ils sont les seuls à diriger la nation jusqu'à ce que les choses se soient calmées. Le Parti catholique, le plus grand du pays, est divisé entre les membres du Conseil qui soutiennent cette régence et les membres qui siègent au Parlement pro-allemand. Aucun des deux groupes ne souhaite renoncer à son pouvoir ou permettre la suppression de ses organes administratifs. Le VWP s'oppose résolument à toute poursuite de l'ancien système car il a interdit leur participation et le parti continue à renforcer ses relations avec les révolutionnaires encore armés. L'armée de Libération, quant à elle, est déchirée entre l'allégeance au Parti catholique et ses dirigeants autoproclamés qui luttent pour le contrôle de l'Etat."
+flnrev.2.a:0 "Le premier Congrès national se solde par un échec."
 
-flnrev.3.t:0 "The Council Seizes Control"
-flnrev.3.d:0 "To preserve their power and keep the national situation under control, the Flemish Council has, with the assistance of the Vlaamse Wacht, seized control of the Assembly stationing forces at all entrances and throughout the surrounding city blocks. Van Severen has used this opportunity to stand before the Assembly and give his speech, trying to convince them of the necessity of stability and preservation of the old system. While he has mild success in convincing some members, most of them are waiting for the Liberation army to launch a counter-attack against the Vlaamse Wacht and liberate the Assembly."
-flnrev.3.a:0 "The situation is escalating."
+flnrev.3.t:0 "Le Conseil prend le contrôle"
+flnrev.3.d:0 "Afin de préserver leur pouvoir et de maîtriser la situation dans le pays, le Conseil flamand, avec l'aide de la Vlaamse Wacht, a pris le contrôle des forces stationnaires de l'Assemblée à toutes les entrées et dans les îlots urbains environnants. M. Van Severen a profité de l'occasion pour prendre la parole devant l'Assemblée et faire son discours, en essayant de les convaincre de la nécessité de la stabilité et de la préservation de l'ancien système. S'il réussit un peu à convaincre certains membres, la plupart d'entre eux attendent que l'armée de Libération lance une contre-attaque contre le Vlaamse Wacht et libère l'Assemblée."
+flnrev.3.a:0 "La situation s'aggrave."
 
-flnrev.4.t:0 "Divisions Within the Liberation Army"
-flnrev.4.d:0 "With the Assembly being kept hostage, the Liberation army is increasingly becoming plagued by internal strife and divided leadership.\n\nLed by Charles Claser, the Secret Legion stands by the dissolution of the Flemish Council and the creation of a new Flemish state. The Frontbeweging on the other hand, mainly composed of of Weltkrieg veterans, stands by the Flemish Council and has been tearing men away from the combined effort to support the Vlaamse Wacht. The Geuzengroep is torn apart between its founding members who were part of the Vlaamse Wacht and the recruited partisans who fought out of anti-German sentiment and general discontent with the Flemish Council.\n\nA fourth faction has also emerged during the rebellion, consisting of mainly Dutch volunteers and Groot-Nederlands sympathisers. While their numbers are limited, support from the Dutch army and a stalemate between the other factions could result in their victory.\n\nWith no end in sight, the different factions are seeking the disarming of the others and to use the influence of both Church and State to achieve their goals."
-flnrev.4.a:0 "The Secret Legion achieves a majority."
-flnrev.4.b:0 "The Frontbeweging wins over the Geuzengroep."
-flnrev.4.c:0 "The Groot-Nederlandisten strengthen their power."
+flnrev.4.t:0 "Divisions au sein de l'Armée de Libération"
+flnrev.4.d:0 "L'Assemblée étant prise en otage, l'armée de Libération est de plus en plus en proie à des conflits internes et à une direction divisée.\n\nMené par Charles Claser, la Légion secrète soutient la dissolution du Conseil flamand et la création d'un nouvel état flamand. Le Frontbeweging, par contre, composé principalement d'anciens combattants de la Weltkrieg, se tient aux côtés du Conseil flamand et a arraché des hommes à l'effort cumulé pour soutenir la Vlaamse Wacht. Le Geuzengroep est déchiré entre ses membres fondateurs qui faisaient partie de la Vlaamse Wacht et les partisans recrutés qui se sont battus pour des raisons anti-allemandes et de mécontentement général envers le Conseil flamand.\n\n\Une quatrième faction a également émergé pendant la rébellion, composée principalement de volontaires néerlandais et de sympathisants de la Grande-Néerlande. Bien que leur nombre soit limité, le soutien de l'armée néerlandaise et une impasse entre les autres factions pourraient aboutir à leur victoire. Sans fin en vue, les différentes factions cherchent à désarmer les autres et à utiliser l'influence de l’église et de l’état pour atteindre leurs objectifs."
+flnrev.4.a:0 "La Légion secrète obtient la majorité."
+flnrev.4.b:0 "Le Frontbeweging l'emporte sur le Geuzengroep."
+flnrev.4.c:0 "Les partisans de la Grande-Néerlande renforcent leur pouvoir."
 
 #Secret Legion
 
