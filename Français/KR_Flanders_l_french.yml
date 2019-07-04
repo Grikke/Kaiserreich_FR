@@ -2,6 +2,7 @@
 
 #A vérifier
 # FLN_Grote_Doorsteek:0
+# fln.19.d:0    Vlaamse Wacht ou Garde Flamande
 
 ### Parties ###
 FLN_social_conservative_party:0 "KB"
@@ -185,50 +186,50 @@ fln.12.a:0 "Une victoire pour le peuple néerlandais."
 
 #Frans-Vlaanderen
 
-fln.13.t:0 "The Flemish Situation in French Flanders"
-fln.13.d:0 "After seizing the territories around Lille and Dunkerke from Flanders during the reign of Louis XIV, the French have made extensive efforts to undermine the Dutch language and marginalise the Flemish community. After the syndicalist revolution many of these Flemish nationals fled over the border to West-Flanders, awaiting German intervention to return to their homes. Centuries of French indoctrination however have undoubtedly left their mark and only a small Flemish minority still exists in the region making our claim weak at best.\n\nAs a result of the tensions in the region, a commission has been established, one tasked with improving conditions for the Flemish minority and to enthuse the rest to adapt to our language and culture."
-fln.13.a:0 "We should reconsider this."
-fln.13.b:0 "Back the Commission."
+fln.13.t:0 "La situation flamande en Flandre française"
+fln.13.d:0 "Après s'être emparés des territoires autour de Lille et de Dunkerke à partir des Flandres sous le règne de Louis XIV, les Français ont fait des efforts considérables pour saper la langue néerlandaise et marginaliser la communauté flamande. Après la révolution syndicaliste, beaucoup de ces Flamands ont fui par la frontière vers la Flandre occidentale, attendant l'intervention des Allemands pour rentrer chez eux. Cependant, des siècles d'endoctrinement français ont sans aucun doute laissé leur marque et seule une petite minorité flamande existe encore dans la région, ce qui rend notre revendication au mieux faible. En raison des tensions dans la région, une commission a été créée, chargée notamment d'améliorer les conditions pour la minorité flamande et d'encourager le reste à s'adapter à notre langue et notre culture.Après s'être emparés des territoires autour de Lille et de Dunkerke à partir des Flandres sous le règne de Louis XIV, les Français ont fait des efforts considérables pour saper la langue néerlandaise et marginaliser la communauté flamande.  Après la révolution syndicaliste, beaucoup de ces Flamands ont fui par la frontière vers la Flandre occidentale, attendant l'intervention des Allemands pour rentrer chez eux.  Cependant, des siècles d'endoctrinement français ont sans aucun doute laissé leur marque et seule une petite minorité flamande existe encore dans la région, ce qui rend notre revendication au mieux faible. En raison des tensions dans la région, une commission a été créée, chargée notamment d'améliorer les conditions pour la minorité flamande et d'encourager le reste à s'adapter à notre langue et notre culture. "
+fln.13.a:0 "Nous devrions reconsidérer la question."
+fln.13.b:0 "Soutenez la Commission."
 
-fln.14.t:0 "Plea to the Bishoprics"
-fln.14.d:0 "Still devoutly Catholic, most of the Flemish living in Frans-Vlaanderen listen intently to their doctor and their pastor. Due to the hostility between the syndicalist government and the powerful bishoprics in the region, we could exploit these divisions to convince local church leaders to join our KB party and more importantly, tie them into our nation."
-fln.14.a:0 "Strengthen Catholic ties."
-fln.14.b:0 "This is a waste of time."
+fln.14.t:0 "Plaidoyer aux évêchés"
+fln.14.d:0 "Encore très catholiques, la plupart des Flamands vivant en Flandre-Française écoutent attentivement leur médecin et leur pasteur. En raison de l'hostilité entre le gouvernement syndicaliste et les puissants évêchés de la région, nous pourrions exploiter ces divisions pour convaincre les dirigeants des églises locales de rejoindre notre parti KB et, plus important encore, les lier à notre nation."
+fln.14.a:0 "Renforcer les liens catholiques."
+fln.14.b:0 "C'est une perte de temps.."
 
-fln.15.t:0 "Investment Program in Frans-Vlaanderen"
-fln.15.d:0 "While all contact with the Communard government in France is strictly forbidden, we can still covertly send money and resources to the Flemish companies and workers that live there. The continuation of the Caritas programme, invented by the Catholic Church, is intended to help the working class and by properly backing it we could increase the welfare of locals in the region and boost their sympathy towards Flanders. There are risks however, as this would undoubtedly be a very expensive project and it is unclear whether any meaningful results could be guaranteed."
-fln.15.a:0 "Invest in Frans-Vlaanderen."
-fln.15.b:0 "A complete misuse of resources."
+fln.15.t:0 "Programme d'investissement en Flandre française"
+fln.15.d:0 "Bien que tout contact avec le gouvernement communal français soit strictement interdit, nous pouvons encore envoyer clandestinement de l'argent et des ressources aux entreprises et aux travailleurs flamands qui y vivent. La poursuite du programme Caritas, inventé par l'Eglise catholique, a pour but d'aider la classe ouvrière et, en le soutenant correctement, nous pourrions améliorer le bien-être des habitants de la région et renforcer leur sympathie pour la Flandre. Il y a toutefois des risques, car il s'agirait sans aucun doute d'un projet très coûteux et il n'est pas certain que des résultats significatifs puissent être garantis."
+fln.15.a:0 "Investir dans la Flandre française."
+fln.15.b:0 "Ce serait une mauvaise utilisation des ressources..."
 
-fln.16.t:0 "Frans-Vlaanderen Restored to Flemish Rule!"
-fln.16.d:0 "We have successfully driven off the French and retaken control of the region. A large renaming programme is already underway with cities like Lille changed to Rijsel and Dunkerke to Duinkerke. Putting aside extra government funds for refugee care and the restoration of the area could help us gain sympathy at little cost, and it would assist greatly in the integration process."
-fln.16.a:0 "Allocate funds for refugee camps and repairs."
+fln.16.t:0 "La Flandre-Française restaurée à la Flandre !"
+fln.16.d:0 "Nous avons réussi à chasser les Français et à reprendre le contrôle de la région. Un vaste programme de changement de nom est déjà en cours, avec des villes comme Lille devenue Rijsel et Dunkerke devenue Duinkerke. Mettre de côté des fonds publics supplémentaires pour les soins aux réfugiés et la restauration de la région pourrait nous aider à obtenir de la sympathie à peu de frais, et cela faciliterait grandement le processus d'intégration."
+fln.16.a:0 "Allouer des fonds pour les camps de réfugiés et les réparations."
 
-fln.17.t:0 "Francophone Protests"
-fln.17.d:0 "Due to extensive efforts by the French government to increase the importance of the French language in the region, large swathes of land have become monolingual French and are resisting their new Flemish occupiers. To quell their resistance, we could allow the continuation of French facilities in those areas. This would decrease the amount of civil unrest in the region, but would unfortunately decrease the speed at which it would be successfully reintegrated into Flanders."
-fln.17.a:0 "Setup French facilities."
-fln.17.b:0 "Enforce the Flemish language!"
+fln.17.t:0 "Protestations francophones"
+fln.17.d:0 "Grâce aux efforts considérables déployés par le gouvernement français pour accroître l'importance de la langue française dans la région, de vastes étendues de terre sont devenues monolingues et résistent à leurs nouveaux occupants flamands. Pour réprimer leur résistance, nous pourrions permettre le maintien d'installations françaises dans ces régions. Cela diminuerait la quantité de troubles civils dans la région, mais ralentirait malheureusement la vitesse à laquelle elle serait réintégrée avec succès dans la Flandre."
+fln.17.a:0 "Mise en place d'installations françaises."
+fln.17.b:0 "Faites respecter la langue flamande !"
 
-fln.18.t:0 "Bombing in Lille"
-fln.18.d:0 "Unhappy with the Flemification of the province, French separatist movements have placed a bomb in the home of one of our top officials in the city of Lille. While he was able to escape unscathed, three of his family members and four members of his staff have perished in the explosion."
-fln.18.a:0 "A sad day for all Flanders."
+fln.18.t:0 "Attentat à la bombe à Lille"
+fln.18.d:0 "Mécontents de la flamandisation de la province, les mouvements séparatistes français ont placé une bombe dans la maison de l'un de nos hauts responsables de la ville de Lille. Bien qu'il ait pu s'en sortir indemne, trois membres de sa famille et quatre membres de son personnel ont péri dans l'explosion."
+fln.18.a:0 "Un triste jour pour toute la Flandre."
 
-fln.19.t:0 "Bombing of the Yzer Tower"
-fln.19.d:0 "Built after the Weltkrieg to commemorate fallen Flemish soldiers, the tower of Yzer has become a symbol of Flemish nationalism and peace. During this year's annual Yzer pilgrimage organised by members of the Frontpartij, a French anarchist has blown up the tower causing the total destruction of its support structure and the death of twenty-three Weltkrieg veterans. The Flemish public is outraged calling for a decisive and brutal response from the Vlaamse Wacht."
-fln.19.a:0 "A symbol of peace no more."
+fln.19.t:0 "Attentat à la bombe contre la tour de l'Yser"
+fln.19.d:0 "Construite après la Weltkrieg pour commémorer les soldats flamands tombés au combat, la tour de l'Yser est devenue un symbole du nationalisme flamand et de la paix. Au cours du pèlerinage annuel à Yzer organisé cette année par des membres du Frontpartij, un anarchiste français a fait sauter la tour, causant la destruction totale de sa structure de soutien et la mort de vingt-trois anciens combattants de la Weltkrieg. L'opinion publique flamande est outrée réclamant une réponse décisive et brutale de la part de la Vlaamse Wacht."
+fln.19.a:0 "Un symbole de paix qui n'est plus."
 
-fln.20.t:0 "Candle Wake for the Yzer"
-fln.20.d:0 "In support of the casualties during the Yzer Tower attack, several small villages in Frans-Vlaanderen have expressed their condolences for the families of the victims by organising a special ceremony, followed by a very appropriate and moving speech from the mayors of the respective communities."
-fln.20.a:0 "We should thank them for their support."
+fln.20.t:0 "Réveil à la bougie pour l'Yser"
+fln.20.d:0 "En soutien aux victimes de l'attentat de la tour de l'Yser, plusieurs petits villages de la Flandre-Française ont exprimé leurs condoléances aux familles des victimes en organisant une cérémonie spéciale, suivie d'un discours très approprié et émouvant des maires des communautés respectives."
+fln.20.a:0 "Nous devrions les remercier pour leur soutien."
 
-fln.201.t:0 "Integration of Frans-Vlaanderen"
-fln.201.d:0 "It has taken a long time but at last can we count the people of Frans-Vlaanderen as true Flemish citizens. The Flemish language is slowly undergoing a resurgence and the final administrative reforms are passed. Frans-Vlaanderen is now officialy the sixth province of Flanders!"
-fln.201.a:0 "We embrace them as brothers."
+fln.201.t:0 "Intégration de la Flandre-Française"
+fln.201.d:0 "Cela a pris beaucoup de temps, mais nous pouvons enfin considérer les habitants de la Flandre-Française comme de véritables citoyens flamands. La langue flamande connaît lentement une résurgence et les dernières réformes administratives sont adoptées. la Flandre-Française est maintenant officiellement la sixième province de Flandre !"
+fln.201.a:0 "Nous les embrassons comme des frères."
 
-fln.300.t:0 "End of the Walloon rebellion"
-fln.300.d:0 "As our armies march through Liège and Namur, both sides of the nation once known as Belgium are reunited. Should we reinstate the union between the two regions or should we keep true to the Flemish dream and let the Walloons govern themselves?"
-fln.300.a:0 "Eendracht maakt Macht!"
-fln.300.b:0 "Wallonia and Flanders aren't meant to be together!"
+fln.300.t:0 "Fin de la rébellion wallonne"
+fln.300.d:0 "Alors que nos armées défilent à travers Liège et Namur, les deux côtés de la nation, autrefois connus sous le nom de Belgique, se réunissent. Faut-il rétablir l'union entre les deux régions ou rester fidèle au rêve flamand et laisser les Wallons se gouverner eux-mêmes ?"
+fln.300.a:0 "Eendracht maakt Macht ! (l'Union fait la force !) "
+fln.300.b:0 "La Wallonie et la Flandre ne sont pas faites pour être ensemble !"
 
 #First Days of the Nation
 
