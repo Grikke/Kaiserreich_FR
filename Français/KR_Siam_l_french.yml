@@ -201,7 +201,7 @@ SIA_national_populist_party_long:0 "Pak Seri Manangkhasila(Parti Libre Thaïland
 ### Opinion Modifiers ###
 SIA_seize_singapore:0 "Annexion illégitime de Singapour"
 SIA_no_seize_singapore:0 "Ignoré nos colonies de Singapour"
-SIA_IndNat_bastard:0 "Saisissons nos usines !"
+SIA_IndNat_bastard:0 "Ils saisissent nos usines !"
 
 ### Events ###
 siam.0.t:0 "En-tête caché" # I know that they're Indian events but their loc are "who knows where" and why are they included in the Siamese event file in the first place?
@@ -212,10 +212,10 @@ siam.2.d:0 "Alors que l'Empire allemand traverse actuellement une période de tr
 siam.2.a:0 "Saisissons Singapour!"
 siam.2.b:0 "Je ne préfère pas...."
 
-siam.3.t:0 "[SIA.GetName] Seizes Singapore!"
-siam.3.d:0 "With our once great empire now in shambles, the bastards in [SIA.GetName] have taken advantage by seizing control of Singapore. We could either let it slide or take a firm stance against this opportunism."
-siam.3.a:0 "There is nothing we can do."
-siam.3.b:0 "This means WAR!"
+siam.3.t:0 "Le [SIA.GetName] s'empare de Singapour!"
+siam.3.d:0 "Avec notre grand empire maintenant en ruines, les infâmes [SIA.GetAdjective] ont profité de l'occasion pour prendre le contrôle de Singapour. Soit on laisse passer, soit on prend une position ferme contre cet opportunisme."
+siam.3.a:0 "Il n'y a rien que l'on puisse faire."
+siam.3.b:0 "Déclarez la Guerre!"
 
 siam.4.a:0 "ÉVÉNEMNET CACHÉ."
 
@@ -257,51 +257,52 @@ siam.12.a:0 "Super !"
 ## Royal Ploughing Ceremony Mechanics ##
 siam.27.t:0 "Cérémonie du Labour Royale : Récoltes Abondantes"
 siam.27.d_sia:0 "La Phra Ratcha Phithi Phithi Charot Phra Nangkhan Raek Na Khwan (également connue sous le nom de Cérémonie du Labour Royale) a été pratiquée en [SIA.GetName] depuis la période Sukhothai, il y a près de 600 ans, et est étroitement surveillée par de nombreux agriculteurs à travers la nation.\n\nLes devins traditionnels ont prédit des récoltes abondantes, une production alimentaire riche et une quantité considérable d'eau pour cette année pendant la Cérémonie du Labour Royale à Sanam Luang près du Grand Palais de Bangkok."
-siam.27.d_cam:0 "Le Bon Chroat Preah Nongkoal (également connu sous le nom de Cérémonie du Labour Royale) a été pratiquée au [CAM.GetNameDef] depuis le sixième siècle, et est observé de près par de nombreux agriculteurs à travers le pays.\n\nLes devins traditionnels ont prédit des récoltes supplémentaires abondantes, une production alimentaire riche et une quantité d'eau importante pour cette année pendant la Cérémonie du Labour Royale à Phnom Penh à côté du Palais Royal."
+siam.27.d_cam:0 "Le Bon Chroat Preah Nongkoal (également connu sous le nom de Cérémonie du Labour Royale) a été pratiquée au [CAM.GetNameDef] depuis le sixième siècle, et est observé de près par de nombreux agriculteurs à travers le pays.\n\nLes devins traditionnels ont prédit des récoltes supplémentaires abondantes, une production alimentaire riche et une quantité d'eau importante pour cette année pendant la Cérémonie du Labour Royale à Phnom Penh près du Palais Royal."
 siam.27.d_bur:0 "La Ledaw de Mingala (également connue sous le nom de Cérémonie du Labour Royale) a été pratiquée en [BUR.GetNameDef] depuis le cinquième siècle pendant l'ère des dynasties de Pagan, et est étroitement observée par de nombreux agriculteurs à travers le pays.\n\n Les devins traditionnels ont prédit des récoltes supplémentaires abondantes, une production alimentaire abondante et une quantité d'eau importante pour cette année pendant la Cérémonie du Labour Royale à Mandalay à proximité du Grand Palais royal doré".
 siam.27.a:0 "Dieu Merci !"
 
 siam.28.t:0 "Cérémonie du Labour Royale : Rien de Spécial"
 siam.28.d_sia:0 "La Phra Ratcha Phithi Phithi Charot Phra Nangkhan Raek Na Khwan (également connue sous le nom de Cérémonie du Labour Royale) a été pratiquée en [SIA.GetName] depuis la période Sukhothai, il y a près de 600 ans, et est étroitement surveillée par de nombreux agriculteurs à travers la nation.\n\nLes devins traditionnels ont prédit des récoltes moyennes, une production alimentaire normale et une quantité d'eau ordinaire pour cette année pendant la cérémonie royale de labourage à Sanam Luang près du Grand Palais de Bangkok."
-siam.28.d_cam:0 "Le Bon Chroat Preah Nongkoal (également connu sous le nom de Cérémonie du Labour Royale) a été pratiquée au [CAM.GetNameDef] depuis le sixième siècle, et est observé de près par de nombreux agriculteurs à travers le pays.\n\nLes devins traditionnels ont prédit des récoltes moyennes, une production alimentaire normale et une quantité d'eau ordinaire pour cette année lors de la cérémonie royale de labourage à côté du Palais Royal de Phnom Penh".
-siam.28.d_bur:0 "La Ledaw de Mingala (également connue sous le nom de Cérémonie du Labour Royale) a été pratiquée en [BUR.GetNameDef] depuis le cinquième siècle pendant l'ère des dynasties de Pagan, et est étroitement observée par de nombreux agriculteurs à travers le pays.\n\nLes devins traditionnels ont prédit des récoltes moyennes, une production alimentaire normale et une quantité d'eau ordinaire pour cette année lors de la cérémonie royale de labourage à côté du Grand Palais royal doré de Mandalay."
+siam.28.d_cam:0 "Le Bon Chroat Preah Nongkoal (également connu sous le nom de Cérémonie du Labour Royale) a été pratiquée au [CAM.GetNameDef] depuis le sixième siècle, et est observé de près par de nombreux agriculteurs à travers le pays.\n\nLes devins traditionnels ont prédit des récoltes moyennes, une production alimentaire normale et une quantité d'eau ordinaire pour cette année lors de la cérémonie royale de labourage près du Palais Royal de Phnom Penh".
+siam.28.d_bur:0 "La Ledaw de Mingala (également connue sous le nom de Cérémonie du Labour Royale) a été pratiquée en [BUR.GetNameDef] depuis le cinquième siècle pendant l'ère des dynasties de Pagan, et est étroitement observée par de nombreux agriculteurs à travers le pays.\n\nLes devins traditionnels ont prédit des récoltes moyennes, une production alimentaire normale et une quantité d'eau ordinaire pour cette année lors de la cérémonie royale de labourage près du Grand Palais royal doré de Mandalay."
 siam.28.a:0 "Ça a l'air ennuyeux...."
 
 siam.29.t:0 "Cérémonie du Labour Royale : Le désastre est imminent !"
-siam.29.d_sia:0 "La Phra Ratcha Phithi Phithi Charot Phra Nangkhan Raek Na Khwan (également connue sous le nom de Cérémonie du Labour Royale) a été pratiquée en [SIA.GetName] depuis la période Sukhothai, il y a près de 600 ans, et est étroitement surveillée par de nombreux agriculteurs à travers la nation.\n\nTraditional soothsayers have predicted poor harvests, famine, and extremely low water levels for this year during the Royal Ploughing Ceremony at Sanam Luang near the Grand Palace in Bangkok."
-siam.29.d_cam:0 "Le Bon Chroat Preah Nongkoal (également connu sous le nom de Cérémonie du Labour Royale) a été pratiquée au [CAM.GetNameDef] depuis le sixième siècle, et est observé de près par de nombreux agriculteurs à travers le pays.\n\nTraditional soothsayers have predicted poor harvests, famine, and extremely low water levels for this year during the Royal Ploughing Ceremony next to the Royal Palace in Phnom Penh."
-siam.29.d_bur:0 "La Ledaw de Mingala (également connue sous le nom de Cérémonie du Labour Royale) a été pratiquée en [BUR.GetNameDef] depuis le cinquième siècle pendant l'ère des dynasties de Pagan, et est étroitement observée par de nombreux agriculteurs à travers le pays.\n\nTraditional soothsayers have predicted poor harvests, famine, and extremely low water levels for this year during the Royal Ploughing Ceremony next to the Great Golden Royal Palace in Mandalay."
+siam.29.d_sia:0 "La Phra Ratcha Phithi Phithi Charot Phra Nangkhan Raek Na Khwan (également connue sous le nom de Cérémonie du Labour Royale) a été pratiquée en [SIA.GetName] depuis la période Sukhothai, il y a près de 600 ans, et est étroitement surveillée par de nombreux agriculteurs à travers la nation.\n\nLes devins traditionnels ont prédit de mauvaises récoltes, la famine et des niveaux d'eau extrêmement bas pour cette année lors de la Cérémonie du Labour Royale à Sanam Luang près du Grand Palais de Bangkok."
+siam.29.d_cam:0 "Le Bon Chroat Preah Nongkoal (également connu sous le nom de Cérémonie du Labour Royale) a été pratiquée au [CAM.GetNameDef] depuis le sixième siècle, et est observé de près par de nombreux agriculteurs à travers le pays.\n\nLes devins traditionnels ont prédit de mauvaises récoltes, la famine et des niveaux d'eau extrêmement bas pour cette année lors de la Cérémonie du Labour Royale près du Palais Royal de Phnom Penh."
+siam.29.d_bur:0 "La Ledaw de Mingala (également connue sous le nom de Cérémonie du Labour Royale) a été pratiquée en [BUR.GetNameDef] depuis le cinquième siècle pendant l'ère des dynasties de Pagan, et est étroitement observée par de nombreux agriculteurs à travers le pays.\n\nLes devins traditionnels ont prédit de mauvaises récoltes, la famine et des niveaux d'eau extrêmement bas pour cette année lors de la Cérémonie du Labour Royale près du Grand Palais royal doré de Mandalay."
+
 siam.29.a:0 "Ça a l'air urgent !"
 
 ## Sucession Line (Paribatra & Mahidol) ##
 siam.13.t:0 "La mort de Rama VII" # Mahidol
-siam.13.d:0 "King Prajadhipok of the [SIA.GetName], also known as Rama VII—the 7th monarch of the House of Chakri—has died this morning due to a heart failure. The childless monarch will be succeeded by his nephew, Ananda Mahidol, who has taken the regnal name Rama VIII."
-siam.13.d.plaek:0 "King Prajadhipok of the [SIA.GetName], also known as Rama VII—the 7th monarch of the House of Chakri—has died this morning due to pneumonia during his time in exile. The childless monarch will be succeeded by his nephew Ananda Mahidol, who has taken on the regnal name Rama VIII as the pretender to the Siamese throne."
-siam.13.d.rep:0 "Prajadhipok Mahidol, formerly King Prajadhipok of the [SIA.GetName], also known as Rama VII—the 7th monarch of the House of Chakri—has died this morning due to pneumonia during his time in exile. The childless monarch will be succeeded by his nephew Ananda Mahidol, who has taken on the regnal name Rama VIII as the pretender to the Siamese throne."
-siam.13.a:0 "Qu'il puisse reposer en paix."
+siam.13.d:0 "Le roi Prajadhipok du [SIA.GetName], également connu sous le nom de Rama VII - le 7e monarque de la Maison de Chakri - est mort ce matin d'une insuffisance cardiaque. Sans enfant, c'est son neveu, Ananda Mahidol qui assumra le tritre de roi sous le nom de Rama VIII."
+siam.13.d.plaek:0 "Le roi Prajadhipok du [SIA.GetName], également connu sous le nom de Rama VII - le 7e monarque de la Maison de Chakri - est mort ce matin d'une pneumonie durant son exil. Le monarque sans enfants sera remplacé par son neveu Ananda Mahidol, qui a pris le nom de Rama VIII comme prétendant au trône [SIA.GetAdjective]."
+siam.13.d.rep:0 "Prajadhipok Mahidol, l'ancien Roi Prajadhipok du [SIA.GetName], aussi connu sous le nom de Rama VII - le 7ème monarque de la Maison de Chakri - est mort ce matin à cause d'une pneumonie pendant son exil. Le monarque sans enfants sera remplacé par son neveu Ananda Mahidol, qui a pris le nom de Rama VIII comme prétendant au trône [SIA.GetAdjective]."
+siam.13.a:0 "Puisse-t-il reposer en paix."
 
-siam.14.t:0 "Paribatra Sukhumbhand's Scheme" # Boripatr (?)
-siam.14.d:0 "The new king is still young and currently away from home, studying in Switzerland. Should we take the initiative and quickly seize the throne and title of King of Siam for ourselves? After all, we can't count on him to lead us through the war."
-siam.14.a:0 "The throne is vacant for us."
-siam.14.b:0 "We should stay true to the rightful king."
+siam.14.t:0 "Le plan de Paribatra Sukhumbhand" # Boripatr (?)
+siam.14.d:0 "Le nouveau roi est encore jeune et actuellement loin de chez lui, étudiant en Suisse. Faut-il prendre l'initiative et s'emparer rapidement du trône et du titre de roi du Siam pour soi-même ? Après tout, nous ne pouvons pas compter sur lui pour nous guider pendant la guerre."
+siam.14.a:0 "Le trône est vacant pour nous."
+siam.14.b:0 "Nous devons rester fidèles au roi légitime."
 
-siam.15.t:0 "The Death of Rama VIII" # Mahidol
-siam.15.d:0 "King Ananda Mahidol of the [SIA.GetName], also known as Rama VIII—the 8th monarch of the House of Chakri—was found in his bed, shot dead. Although at first thought to have been an accident his death was ruled a murder by medical examiners and three royal pages were later executed following irregular and rushed trials. The mysterious circumstances surrounding his death have been the subject of much controversy. The childless monarch will be succeeded by his brother Bhumibol Adulyadej, who has taken the regnal name Rama IX."
-siam.15.d.plaek:0 "Prince Ananda Mahidol of the [SIA.GetName], also known as Rama VIII—who would have been the 8th monarch of the House of Chakri—has died from severe blood loss resulting from a severed radial artery after he crashed his car. The childless prince will be succeeded by his brother Bhumibol Adulyadej, who has taken the regnal name Rama IX as the pretender to the throne of Siam."
-siam.15.d.rep:0 "Ananda Mahidol, formerly Prince of the [SIA.GetName], also known as Rama VIII—who would have been the 8th monarch of the House of Chakri—has died from severe blood loss resulting from a severed radial artery after he crashed his car. The childless prince will be succeeded by his brother Bhumibol Adulyadej, who has taken the regnal name Rama IX as the pretender to the Siamese throne."
-siam.15.a:0 "May he rest in peace."
+siam.15.t:0 "La mort de Rama VIII" # Mahidol
+siam.15.d:0 "Le roi Ananda Mahidol du [SIA.GetName], également connu sous le nom de Rama VIII - le 8e monarque de la Maison de Chakri - a été retrouvé dans son lit, abattu. Bien qu'on ait d'abord pensé qu'il s'agissait d'un accident, sa mort a été considérée comme un meurtre par les médecins légistes et trois pages royales ont ensuite été exécutées à la suite de procès douteux et précipités. Les circonstances mystérieuses de sa mort ont fait l'objet de nombreuses controverses. Le monarque sans enfants sera remplacé par son frère Bhumibol Adulyadej, qui a pris le nom de Rama IX."
+siam.15.d.plaek:0 "Le prince Ananda Mahidol du [SIA.GetName], également connu sous le nom de Rama VIII - qui aurait été le 8e monarque de la Maison de Chakri - est mort des suites d'une grave perte de sang suite à une rupture de l'artère radiale après un grave accident de voiture. Le prince sans enfants sera remplacé par son frère Bhumibol Adulyadej, qui a pris le nom de Rama IX comme prétendant au trône [SIA.GetAdjective]."
+siam.15.d.rep:0 "Ananda Mahidol, ancien Prince du[SIA.GetName], également connu sous le nom de Rama VIII - qui aurait été le 8ème monarque de la Maison de Chakri - est mort des suites d'une grave perte de sang suite à une rupture d'artère radiale après un grave accident de voiture. Le prince sans enfants sera remplacé par son frère Bhumibol Adulyadej, qui a pris le nom de Rama IX comme prétendant au trône [SIA.GetAdjective]."
+siam.15.a:0 "Puisse-t-il reposer en paix."
 
-siam.33.t:0 "The Death of Rama IX" # Boripatr
-siam.33.d:0 "King Parbatra Sukhumbhand of the [SIA.GetName], also known as Rama IX—the 9th monarch of the House of Chakri—had suffered a heart attack last night while walking around his bedroom in the Grand Palace. A medical team had arrived far too late and had tried in vain to resurrect him. Since Rama IX had died with no male heirs, the position of monarch will be succeeded by his brother Chumbhotbongs Paribatra, who has taken on the regnal name Rama X."
+siam.33.t:0 "La mort de Rama IX" # Boripatr
+siam.33.d:0 "Le roi Parbatra Sukhumbhand du [SIA.GetName], également connu sous le nom de Rama IX - le 9e monarque de la Maison de Chakri - a été victime d'une crise cardiaque hier soir en se promenant dans sa chambre du Grand Palais. L'équipe médicale est arrivée beaucoup trop tard et a essayé en vain de le sauver. Rama IX étant mort sans héritier mâle c'est son frère, Chumbhotbongs Paribatra, qui lui succédera sous le nom de Rama X."
 
-siam.34.t:0 "The Death of Rama X" # Boripatr
-siam.34.d:0 "King Chumbhotbongs Paribatra of the [SIA.GetName], also known as Rama X—the 10th monarch of the House of Chakri—died peacefully in the Suan Pakkard Palace due to old age. Since he'd died without leaving behind a male heir, the monarchy will be succeeded by his brother, Sukhumabhinanda, who has taken on the regnal name Rama XI."
+siam.34.t:0 "La mort de Rama X" # Boripatr
+siam.34.d:0 "Le roi Chumbhotbongs Paribatra du [SIA.GetName], aussi connu sous le nom de Rama X - le 10e monarque de la Maison de Chakri - est mort paisiblement au palais Suan Pakkard en raison de son âge avancé. Comme il est mort sans laisser d'héritier mâle, la monarchie sera remplacée par son frère, Soukhoumabhinanda, qui a pris le nom de Rama XI."
 
 ## Introduction Events ##
 siamn.1.t:0 "Le Royaume du Siam en 1936"
-siamn.1.d:0 "One of the countries that benefited from German victory during the Weltkrieg, Siam regained most of its former land which had previously been lost to the western imperialists. While Siam's relationship with the Huns is, in general, cordial, the fact that they thwarted her expansionist ambitions during the 1929 Intervention in Burma has strained diplomatic and military ties between the two. If Siam should reconcile with the Germans or align itself with others powers is a matter to be decided in the coming decade."
+siamn.1.d:0 "Un des pays qui a bénéficié de la victoire allemande pendant la Weltkrieg, le Siam a regagné la plupart de ses anciens territoires qui avaient été précédemment perdues aux impérialistes occidentaux. Bien que les relations avec les Allemands sont, en général, cordiales, le fait qu'elles aient contrecarré ses ambitions expansionnistes pendant l'intervention de 1929 en Birmanie a envenimé les liens diplomatiques et militaires entre les deux pays. Le Siam doit-il se réconcilier avec l'Allemagne ou s'aligner avec d'autres puissances ? Cette question doit être réglée dans la prochaine décennie."
 siamn.1.a:0 "Intéressant, dites m'en plus!"
-siamn.1.b:0 "J'ai une bonne compréhension de la situation générale."
+siamn.1.b:0 "J'ai déjà une bonne compréhension de la situation générale."
 
 siamn.2.t:0 "L'État de la Politique"
 siamn.2.d:0 "Ever since the coronation of King Rama VII in 1925 most, if not all, of the policies set forth by Siam have been dictated by the Aphiratthamontri Sapha (Council of State). This is a council made up of the King's older siblings, who have continually worked to consolidate their power while keeping the power of the king over the nation weak. Despite promising the [SIA.GetAdjective] intelligentsia that a codified constitution would be issued any reform has been tough to pass, as it would be against the interests of the nobility.\n\nSurrounded by enemies, such as the the Konbaung dynasty to the west, Yunnanese bandits to the north, and the German imperialists to the east, Siam is in a dire situation. It will either perish, forever confined to the pages of a history book, or shall reform itself and emerge a modern state, be it by negotiation or through the use of force."
@@ -373,7 +374,7 @@ siamn.15.a:0 "It's treason then! (Side with the Parliamentarians)"
 siamn.15.b:0 "HM's dignity must be upheld! (Side with the Royalists)"
 siamn.15.c:0 "Try to end this factional bickering."
 
-siamn.16.t:0 "Dawn of the [SIA.GetAdjective] Civil War"
+siamn.16.t:0 "L'Aube de la Guerre Civil [SIA.GetAdjective]"
 siamn.16.prd:0 "Despite the chief of the armed forces declaring his allegiance to the monarchy, a small mutiny in Sattahip and Kanchanaburi by the navy has quickly grown out of control and has now engulfed the entire nation in chaos."
 siamn.16.ppd:0 "Despite the chief of the armed forces declaring his allegiance to the new cabinet, a small mutiny in Lopburi and Nakhon Ratchasima by the army has quickly grown out of control and has now engulfed the entire nation in chaos."
 siamn.16.pra:0 "For the country! (Rebel side)"
