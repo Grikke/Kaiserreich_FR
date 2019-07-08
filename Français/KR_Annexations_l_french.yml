@@ -3,6 +3,7 @@
 ### Events ###
 KR_liberated_us:0 "Nous a libérés"
 KR_close_allies:0 "Proches alliés"
+
 annex.1.t:0 "L'annexion de la Flandre-Wallonie".
 annex.1.d:0 "La Révolution progresse ; nous avons pris la Flandre-Wallonie et libéré le peuple du gouvernement réactionnaire violent créé par les Allemands".
 annex.1.a:0 "Prochain arrêt : Berlin !"
@@ -44,84 +45,94 @@ annex.10.b:0 "Libérer la Grèce en tant que république."
 annex.10.c:0 "Libérer le Royaume de Grèce."
 annex.10.e:0 "Libérer la commune hellénique."
 
-annexe.11.t:0 "Intégration de la Grèce".
-annexe.11.d:0 "Nous contrôlons la Grèce depuis un certain temps, et il semble que la population locale ait finalement accepté notre régime."
+annex.11.t:0 "Intégration de la Grèce".
+annex.11.d:0 "Nous contrôlons la Grèce depuis un certain temps, et il semble que la population locale ait finalement accepté notre régime."
 
-annexe.12.t:0 "L'annexion de la Hongrie".
-annexe.12.d:0 "La Hongrie a été annexée. "Nos forces contrôlent les rues de Budapest et des partisans sont détenus dans toute la campagne."
-annexe.12.a:0 "Restaurer la Grande Hongrie."
-annexe.12.c:0 "Restaurer la Hongrie nationale."
+annex.12.t:0 "L'annexion de la Hongrie".
+annex.12.d:0 "La Hongrie a été annexée. "Nos forces contrôlent les rues de Budapest et des partisans sont détenus dans toute la campagne."
+annex.12.a:0 "Restaurer la Grande Hongrie."
+annex.12.c:0 "Restaurer la Hongrie nationale."
 
-annexe.13.t:0 "Intégration de la Hongrie".
-annexe.13.d:0 "Nous contrôlons la Hongrie depuis un certain temps, et il semble que la population locale ait finalement accepté notre régime."
+annex.13.t:0 "Intégration de la Hongrie".
+annex.13.d:0 "Nous contrôlons la Hongrie depuis un certain temps, et il semble que la population locale ait finalement accepté notre régime."
 
-annexe.14.t:0 "L'annexion de l'Autriche".
-annexe.14.d:0 "L'Autriche a été annexée et nos troupes patrouillent dans les rues de Vienne pour empêcher une rébellion ou quoi que ce soit qui pourrait causer une plus grande instabilité."
-annexe.14.c:0 "Non, nous allons recréer une vieille idée..."
+annex.14.t:0 "L'annexion de l'Autriche".
+annex.14.d:0 "L'Autriche a été annexée et nos troupes patrouillent dans les rues de Vienne pour empêcher une rébellion ou quoi que ce soit qui pourrait causer une plus grande instabilité."
+annex.14.c:0 "Non, nous allons recréer une vieille idée..."
 
-annexe.15.t:0 "Une vieille idée nouvelle".
-annexe.15.d:0 "En 1848, l'Assemblée de Francfort a débattu du sort des États allemands. En 1871, Bismarck a forgé une Allemagne unie. En 1914, nous avons détruit l'Entente. Et maintenant, nous avons enfin réalisé le rêve d'un État unifié pour le peuple allemand. Bien que nous ayons rencontré beaucoup de résistance dans le temps, ils verront que personne ne peut s'opposer à nous ; l'Allemagne sera unie et forte."
-annexe.15.a:0 "Vive le Großdeutschland !"
+annex.15.t:0 "Une vieille idée nouvelle".
+annex.15.d:0 "En 1848, l'Assemblée de Francfort a débattu du sort des États allemands. En 1871, Bismarck a forgé une Allemagne unie. En 1914, nous avons détruit l'Entente. Et maintenant, nous avons enfin réalisé le rêve d'un État unifié pour le peuple allemand. Bien que nous ayons rencontré beaucoup de résistance dans le temps, ils verront que personne ne peut s'opposer à nous ; l'Allemagne sera unie et forte."
+annex.15.a:0 "Vive le Großdeutschland !"
 
-annexe.16.t:0 "Intégration de l'Autriche".
-annexe.16.d:0 "Nous contrôlons l'Autriche depuis un certain temps, et il semble que la population locale ait finalement accepté notre régime."
-annexe.16.a:0 "Donnez-le à nos alliés italiens !"
-annexe.16.b:0 "Libérez l'Italie !"
-annexe.16.c:0 "Donnez-le à nos amis autrichiens !"
+annex.16.t:0 "Intégration de l'Autriche".
+annex.16.d:0 "Nous contrôlons l'Autriche depuis un certain temps, et il semble que la population locale ait finalement accepté notre régime."
+annex.16.a:0 "Donnez-le à nos alliés italiens !"
+annex.16.b:0 "Libérez l'Italie !"
+annex.16.c:0 "Donnez-le à nos amis autrichiens !"
 
-annexe.17.t:0 "Question du Littoral autrichien".
-annexe.17.d:0 "Nous avons pris le contrôle des anciens territoires autrichiens en Istrie et à Gorizia-Gradisca. Nous devons décider quoi en faire."
-annexe.17.a:0 "Rendre ces terres à nos alliés italiens".
-annexe.17.b:0 "Créons un sujet Italien loyal !"
-annexe.17.c:0 "Le remettre à nos alliés autrichiens".
-annexe.17.e:0 "Donnez-le à nos alliés slovènes".
-annexe.17.f:0 "Donnez-le à nos alliés serbes"
-annexe.17.g:0 "Donnez-le à nos alliés yougoslaves".
-annexe.17.h.h:0 "Donnez-le à nos alliés croates"
-annexe.18.t:0 "Territoires reconquis !"
+annex.17.t:0 "Question du Littoral autrichien".
+annex.17.d:0 "Nous avons pris le contrôle des anciens territoires autrichiens en Istrie et à Gorizia-Gradisca. Nous devons décider quoi en faire."
+annex.17.a:0 "Rendre ces terres à nos alliés italiens".
+annex.17.b:0 "Créons un sujet Italien loyal !"
+annex.17.c:0 "Le remettre à nos alliés autrichiens".
+annex.17.e:0 "Donnez-le à nos alliés slovènes".
+annex.17.f:0 "Donnez-le à nos alliés serbes"
+annex.17.g:0 "Donnez-le à nos alliés yougoslaves".
+annex.17.h.h:0 "Donnez-le à nos alliés croates"
+annex.18.t:0 "Territoires reconquis !"
 
-annexe.18.d:0 "Le gouvernement [From.GetAdjective] a choisi de nous rendre les terres de l'ancienne Italie occupée par l'Autriche."
-annexe.18.a:0 "Hourra !"
+annex.18.d:0 "Le gouvernement [From.GetAdjective] a choisi de nous rendre les terres de l'ancienne Italie occupée par l'Autriche."
+annex.18.a:0 "Hourra !"
 
-annexe.19.t:0 "La question du Trentin".
-annexe.19.d:0 "Nous avons pris le contrôle des anciens territoires autrichiens du Trentin et du Tyrol du Sud. Nous devons décider quoi en faire."
+annex.19.t:0 "La question du Trentin".
+annex.19.d:0 "Nous avons pris le contrôle des anciens territoires autrichiens du Trentin et du Tyrol du Sud. Nous devons décider quoi en faire."
 
-annexe.20.t:0 "L'annexion de la Croatie".
-annexe.20.d:0 " Maintenant, les Croates reçoivent leurs ordres de nous, comme les choses devraient être. Il y a de la résistance parmi eux, mais elle sera écrasée sous nos pas !"
+annex.20.t:0 "L'annexion de la Croatie".
+annex.20.d:0 " Maintenant, les Croates reçoivent leurs ordres de nous, comme les choses devraient être. Il y a de la résistance parmi eux, mais elle sera écrasée sous nos pas !"
 
 annex.21.t:0 "The Annexation of Slovenia"
 annex.21.d:0 "Our troops are marching through the capital of Slovenia and the country finally bowed before our might. We must decide what to do with it."
 annex.21.b:0 "Return the Slovene lands to Austria."
 annex.21.c:0 "Transer it to our Croatian allies."
 annex.21.e:0 "Transer it to our Yugoslav allies."
+
 annex.22.t:0 "The Annexation of Poland"
 annex.22.d:0 "Our soldiers are marching through the streets of Warsaw after the Polish army surrendered early yesterday afternoon."
 annex.22.b:0 "These damn poles never give up..."
 annex.22.c:0 "Annex border strip and liberate Poland."
 annex.22.e:0 "Give them their old territories back to keep them loyal."
 annex.22.f:0 "Strip Poland of its conquests."
+
 annex.23.t:0 "Integration of Poland"
 annex.23.d:0 "We've controlled Poland for some time now, and it seems like the local population have finally accepted our rule."
+
 annex.24.t:0 "Poland Under the German Heel"
 annex.24.d:0 "A German goes on a holiday in Poland and is stopped at the border. The guard asks him some questions. Your name? Hans Schmidt. Where do you live? In Berlin. Occupation?"
 annex.24.a:0 "Not this time, I'm only visiting!"
+
 annex.25.t:0 "The Annexation of Finland"
 annex.25.d:0 "The Finnish soldiers have been defeated and our Army is marching through Helsinki."
+
 annex.26.t:0 "Integration of Finland"
 annex.26.d:0 "We've controlled Finland for some time now, and it seems like the local population have finally accepted our rule."
+
 annex.27.t:0 "The Annexation of Norway"
 annex.27.d:0 "The Norwegian Army has surrendered, and we have annexd Norway. Our flag waives over the former Capitol building in Oslo as our military campaign comes to an end. Now we must begin a campaign to destroy the Norwegian partisans."
 annex.27.a:0 "Reestablish the Swedish-Norwegian Union"
 annex.27.c:0 "Create a new Scandinavian union."
 warning_scandinavia:0 "§RAttention! Forming the Scandinavian Union will make you loose the Swedish focus tree.§!"
+
 annex.28.t:0 "Integration of Norway"
 annex.28.d:0 "We've controlled Norway for some time now, and it seems like the local population have finally accepted our rule."
+
 annex.29.t:0 "The Annexation of Sweden"
 annex.29.d:0 "Today, the Swedish Chief of Army has announced the surrender of the Army. Supplies and equipment were captured after the surrender and have been shipped back to our country. Total victory has been achieved."
 annex.29.a:0 "Restore the Swedish monarch to the throne!"
 annex.29.b:0 "Release a republican Sweden"
+
 annex.30.t:0 "Integration of Sweden"
 annex.30.d:0 "We've controlled Sweden for some time now, and it seems like the local population have finally accepted our rule."
+
 annex.31.t:0 "The Destiny of Flanders-Wallonia"
 annex.31.d:0 "After liberating the Flemish and Walloon population from the violent reactionary government created by the Germans, we have to decide their destiny. We could recreate the country of Flanders-Wallonia, this time with a syndicalist government, or we could directly rule this lands. After all, some of them are true French territories. Another possibility is the final separation of Flanders-Wallonia into independent states."
 annex.31.a:0 "Flanders-Wallonia, a new Syndicalist country!"
@@ -130,34 +141,46 @@ annex.31.c:0 "Liberate Flanders and annex Wallonia!"
 annex.31.e:0 "Let the Netherlands have Flanders and annex Wallonia!"
 annex.31.f:0 "Let the Netherlands have Flanders and liberate Wallonia!"
 annex.31.g:0 "These lands belongs to the French."
+
 annex.32.t:0 "The Status of Flanders"
 annex.32.d:0 "For our direct support of the syndicalist cause, Commune of France has rewarded with territory of Flanders. We can integrate it directly, or create syndicalist Flanders under our control..."
 annex.32.a:0 "Directly annex Flanders."
 annex.32.b:0 "Liberate Flanders."
+
 annex.33.t:0 "The Destiny of Luxemburg"
 annex.33.d:0 "After liberating the Luxemburg population from the violent reactionary government created by the Germans, we have to decide their destiny. We could recreate the country of Luxemburg, this time with a syndicalist government, or we could directly rule this lands. After all, some of them are true French territories."
 annex.33.a:0 "Luxemburg, a new Syndicalist country!"
 annex.33.b:0 "Absorb Luxemburg into France!"
+
 annex.34.t:0 "Integration of Romandie"
 annex.34.d:0 "The region of Romandie, centred in Geneva, is now firmly integrated into our growing state."
 annex.34.a:0 "Great!"
+
 annex.35.t:0 "Integration of Wallonia"
 annex.35.d:0 "The region of Wallonia, centred in Namur, is now firmly integrated into our growing state."
+
 annex.36.t:0 "Integration of Luxemburg"
 annex.36.d:0 "The former imperial state of Luxemburg is now firmly integrated into our growing state."
+
 annex.37.t:0 "Integration of Alsace-Lorraine"
 annex.37.d:0 "The former imperial province of Alsace-Lorraine is now firmly integrated into our homeland."
+
 annex.38.t:0 "Integration of Bosnia"
 annex.38.d:0 "The former kingdom of Bosnia inhabited by significant Serbian population is now finally integrated into our homeland."
+
 annex.39.t:0 "Integration of Backa-Baranje"
 annex.39.d:0 "The former provinces of the Kingdom of Hungary inhabited by significant Serbian population are now firmly integrated into our motherland."
+
 annex.40.t:0 "Integration of Dalmatia"
 annex.40.d:0 "The former provinces of the Kingdom of Croatia inhabited by significant Serbian population are now firmly integrated into our motherland."
+
 annex.41.t:0 "Integration of Montenegro"
 annex.41.d:0 "The former provinces of the Kingdom of Montenegro inhabited by significant Serbian population are now firmly integrated into our motherland."
+
 annex.42.t:0 "The Annexation of Southern Italy and Reunification of Italy"
 annex.42.d:0 "Italy is now, once again more than just a geographical term. The Army of Southern Italy has surrendered, and the Socialist Republic has been annexd. Some people celebrated in the streets, but not everyone was as happy to see us. This will change with time."
 annex.42.a:0 "Hurrah!"
+
 annex.43.t:0 "The Fate of Southern Italy"
 annex.43.d:0 "Our armed forces have successfully occupied the entire Southern Italy. There is some resistance among local population, but it will be crushed under our heels!"
 annex.43.a:0 "Liberate Socialist Italy!"
@@ -166,6 +189,7 @@ annex.43.c:0 "Liberate the Kingdom of the Two Sicilies!"
 annex.43.e:0 "Return it to our loyal ally, the Socialist Republic!"
 annex.43.f:0 "Return it to our loyal ally, Italy!"
 annex.43.g:0 "Return it to our loyal ally, Sardinia!"
+
 annex.48.t:0 "The Fate of Russia"
 annex.48.d:0 "After a long fight with the Russian state, we have launched a full offensive and forced the Russian armed forces to surrender. Moscow is now in our hands and fate of the Russian nation with it!"
 annex.48.a:0 "Liberate a Soviet Russia!"
@@ -173,41 +197,50 @@ annex.48.b:0 "Liberate a friendly Russia!"
 annex.48.e:0 "Balkanize Russia as much as possible, releasing Siberia"
 annex.48.f:0 "Balkanize Russia as much as possible, without releasing Siberia"
 annex.48.c:0 "Occupy them!"
+
 annex.49.t:0 "The Future of Russia"
 annex.49.d:0 "With the negotiations about Russia's territory complete, it is now time to begin planning it's own course. The majority of our government has united in supporting Louis Ferdinand, the second son of Wilhelm III as he is married a daughter of Kyril Romanov. Several ministers have suggested the pro-German Pavel Bermondt-Avalov to lead Russia instead however. What shall be done?"
 annex.49.a:0 "Prince Louis Ferdinand will rule as Ivan VII."
 annex.49.b:0 "Appoint Pavel Bermondt-Avalov."
+
 annex.50.t:0 "A Hohenzollern Tsar"
 annex.50.d:0 "The Germans have installed a Hohenzollern onto the throne of Russia, and while he has converted to the Orthodox faith it is not likely that 'Ivan VII' will have an easy time ruling Russia."
 annex.50.a:0 "There's worse in alternative history I guess."
+
 annex.51.t:0 "Our new Prime Minister"
 annex.51.d:0 "A little while ago, Pavel Bermondt-Avalov was been 'suggested' to lead Russia by the Germans and shortly after became our new leader. He has the support of the people if only because we are now no longer fighting the Germans."
 annex.51.a:0 "Better then an occupation..."
+
 annex.52.t:0 "The Fate of America"
 annex.52.d:0 "After a long fight on the American continent, we have launched a full offensive and forced Americans to surrender. Washington and the fate of entire America is now in our hands!"
 annex.52.a:0 "Liberate the United states!"
 annex.52.b:0 "Liberate the USA and Hawaii!"
 annex.52.c:0 "Liberate a socialist America!"
 annex.52.e:0 "Occupy the United States!"
+
 annex.53.t:0 "The Fate of Burma"
 annex.53.d:0 "Our troops are marching through Rangoon while the Burmese leadership is either in exile or in prison. What shall we do with these lands?"
 annex.53.a:0 "Liberate a united Burma."
 annex.53.b:0 "Split it up."
 annex.53.c:0 "Occupy them."
+
 annex.54.t:0 "Fate of the Sudetenland"
 annex.54.d:0 "The Germans living in the Sudeten mountains will have no problem being part of the Kaiserreich, as they are a large majority in those states. Should we integrate them in our country?"
 annex.54.a:0 "We claim these lands for Germany!"
 annex.54.b:0 "No, they are not true Germans!"
+
 annex.59.t:0 "The Fate of Portugal"
 annex.59.d_spanish_friend:0 "Portugal is under our control, but perhaps the Spanish would be better to govern it themselves?"
 annex.59.d_normal:0 "Portugal is under our control, but perhaps the Portuguese would be better off governing themselves?"
 annex.59.a:0 "Give it to our Spanish comrades."
 annex.59.b:0 "Liberate a Socialist Portugal."
 annex.59.c:0 "Its better to occupy them!"
+
 annex.60.t:0 "The Fate of Morocco"
 annex.60.d:0 "We have freed Morocco from the Germans, but should we give the government to the people of Morocco?"
 annex.60.a:0 "Liberate them!"
 annex.60.b:0 "Better to occupy them..."
+
 annex.61.t:0 "Fate of the Baltic Region"
 annex.61.d:0 "The entire Baltic region has been brought under our control. Currently our armed forces are facing some opposition from the local populations. We could leave it up to local governments in the Baltic region to take care of any dissent."
 annex.61.a:0 "Integrate the old Baltic governorates!"
@@ -217,24 +250,29 @@ annex.61.e:0 "Liberate Baltic Confederation!"
 annex.61.g:0 "Liberate Lithuania, Latvia and Estonia!"
 annex.61.f:0 "Liberate Latvia and Estonia!"
 annex.61.h:0 "Continue with military occupation!"
+
 annex.62.t:0 "Fate of the South Slavic Nations"
 annex.62.d:0 "Our armed forces have successfully conquered the Entire Western Balkan region, the way things should be. There is some resistance among them, but it will be crushed under our heels!"
 annex.62.a:0 "Liberate Yugoslavia!"
 annex.62.b:0 "Liberate Balkan states!"
 annex.62.c:0 "Divide western Balkan between Serbia and Croatia!"
 annex.62.e:0 "Continue with military occupation!"
+
 annex.63.t:0 "Integration of New England"
 annex.63.d:0 "Rebellious states of New England are now firmly integrated into our motherland."
 annex.63.a:0 "Great!"
+
 annex.64.t:0 "The Fate of Guatemala"
 annex.64.d:0 "The Guatemalan state has been annexd, our troops are parading in Ciudad de Guatemala. What should we do with the remnants of their history?"
 annex.64.a:0 "Liberate a loyal Guatemala."
 annex.64.b:0 "Return Belize to the West Indies Federation and liberate Guatemala."
 annex.64.c:0 "Occupy it!"
+
 annex.65.t:0 "The Fate of El Salvador"
 annex.65.d:0 "El Salvador has been annexd by our proud armies and our troops are parading in San Salvador. How should the administration be set up?"
 annex.65.a:0 "Liberate a loyal El Salvador!"
 annex.65.b:0 "Occupy the country!"
+
 annex.66.t:0 "The Fate of Spain"
 annex.66.d:0 "On the aftermath of the recent conflicts, we ended up controlling a number of territories that once belonged to the Spanish state. What should we do about them now?"
 annex.66.a:0 "Hand them over to the Carlists."
@@ -242,6 +280,7 @@ annex.66.b:0 "Restore control to the Kingdom of Spain."
 annex.66.c:0 "Restore control to the CNT-FAI."
 annex.66.e:0 "Establish an independent Spanish Republic."
 annex.66.f:0 "Continue the occupation, we'll decide about that later."
+
 annex.67.t:0 "The Fate of Northern China"
 annex.67.d:0 "After our successful campaign in the northern China we now have the task to establish new local administrative authority in order to restore peace, however there are several options for our choice..."
 annex.67.a:0 "Continue with military occupation!"
@@ -250,26 +289,32 @@ annex.67.e:0 "Establish a federation of trade unions!"
 annex.67.c:0 "Support the local republican movement!"
 annex.67.f:0 "Set up new regime in Northern China!"
 annex.67.g:0 "Hand these territories to our loyal ally..."
+
 annex.68.t:0 "The Irish Question"
 annex.68.d:0 "We have secured the island of Ireland. The fate of the Irish nation lies in our hands now."
 annex.68.a:0 "They shall have their independence."
 annex.68.b:0 "Unlike the British, we do not fear a few potato farmers."
+
 annex.69.t:0 "Choosing the new Irish Head of State"
 annex.69.d:0 "We have the opportunity to install Prince Joachim of Prussia as the new King of Ireland. However, Prince Joachim's mental state indicates, that it may be wiser to let the Irish choose their own government."
 annex.69.a:0 "Prince Joachim will be Gheoachím I!"
 annex.69.b:0 "Let the Irish decide, as long as they stay loyal."
+
 annex.70.t:0 "Gheoachím I arrives!"
 annex.70.d:0 "Prince Joachim of Prussia has agreed to take up residence in Dublin Castle as King of Ireland. Arriving this morning by air, he reiterated that he would seek to be a just and respectful ruler who would guide the Irish to a prosperous future of democratic monarchy. Nevertheless, with the memory of the republic still strong in the country's consciousness, the concerns over the Prince's mental health are more controversial than ever."
 annex.70.a:0 "We have no other choice..."
+
 annex.71.t:0 "A Nation Once Again"
 annex.71.d:0 "No one sees this"
 annex.71.a:0 "never."
+
 annex.72.t:0 "The Fate of Georgia"
 annex.72.d:0 "Our armed forces have defeated the Georgian regime and is now triumphantly marching through the streets of Tbilisi. Now thing that remains is to determine status of the Georgian territory..."
 annex.72.a:0 "Restore the Kingdom of Georgia!"
 annex.72.b:0 "Restore the Georgian Republic!"
 annex.72.c:0 "Create Transcaucasian Socialist Republic!"
 annex.72.e:0 "Continue with the occupation!"
+
 annex.73.t:0 "The Fate of Spain"
 annex.73.d:0 "On the aftermath of the recent conflicts, we ended up controlling a number of territories that once belonged to the Spanish state. What should we do about them now?"
 annex.73.a:0 "Hand them over to our Catholic brothers, the Carlists."
@@ -279,12 +324,14 @@ annex.73.e:0 "Restore control to the CNT-FAI."
 annex.73.f:0 "Establish an independent Spanish Republic."
 annex.73.g:0 "Continue the occupation, we'll decide about that later."
 annex.73.h:0 "Partition the Spanish Mainland."
+
 annex.74.t:0 "A New King in Madrid?"
 annex.74.d:0 "Some in Berlin are debating on whether we should impose a German noble as King of Spain, restore the legal government of the House of Bourbon, or enthrone the pretenders of the House of Bourbon-Parma..."
 annex.74.a:0 "Prince Frederick of Hohenzollern-Sigmaringen will be the new king."
 annex.74.b:0 "Restore the House of Bourbon under Jaime I."
 annex.74.c:0 "Support the Carlist pretender, Javier of Bourbon-Parma."
 annex.74.e:0 "Actually, we'd rather not mess in their internal affairs."
+
 annex.75.t:0 "Fate of Germany"
 annex.75.d:0 "Our armies have defeated Germany, we now have to decide what to do with the lands of our enemies!"
 annex.75.a:0 "Liberate Rhineland, North Germany, Bavaria and Prussia."
@@ -294,20 +341,25 @@ annex.75.e:0 "Revive German Empire."
 annex.75.f:0 "Recreate German Empire under leadership of Vienna!"
 annex.75.g:0 "We can't trust the Germans, Total Occupation is preferable."
 annex.75.h:0 "German Empire can have their land, if they join us!"
+
 annex.76.t:0 "The Treaty of Vienna?"
 annex.76.d:0 "With eastern Europe under firm Austrian military control there is not even slight hope for our government to return to the mainland, unless we accept offer from Austria, in which they promise us to return pre-war territory in return for peace treaty and recognition of all their territorial gains in Europe."
 annex.76.a:0 "We have no choice."
 annex.76.b:0 "We will never accept your proposal!"
+
 annex.77.t:0 "The Treaty of Vienna"
 annex.77.d:0 "Government of the German Empire seeing no other choice, accepted our offer bringing Austria to new level of power, not experienced from our humiliating defeat in 1866! In accordance with our agreement, we are now giving German provinces we conquered back to the German Empire."
 annex.77.a:0 "A small price for a great victory."
+
 annex.78.t:0 "Darkest Hour of the German Empire"
 annex.78.d:0 "We will now honour the treaty of Vienna and comply to all Austrian demands..."
 annex.78.a:0 "We have no choice..."
+
 annex.79.t:0 "Choosing the new German Head of State"
 annex.79.d:0 "We have the opportunity to install a member of the house of Habsburg as the new Emperor of Germany. However, it may be wise to let the Germans choose their own government."
 annex.79.a:0 "Archduke Felix will be!"
 annex.79.b:0 "Let Germans decide, as long as they stay loyal."
+
 annex.80.t:0 "The Fate of Central Asia"
 annex.80.d:0 "Following our campaigns in the steppes of Central Asia, we are now controlling several territories of the former states of that region. Local leaders, and also our own politicians, are petitioning for autonomy for those areas. Several solutions have been proposed, ranging from the complete partition of the region into up to five states, up to their amalgamation into a single Central Asian Federation."
 annex.80.a:0 "Establish a great Central Asian Federation."
@@ -315,15 +367,20 @@ annex.80.b:0 "Partition it into two states - Kazakhstan and Turkestan."
 annex.80.c:0 "Divide Central Asia into minor states."
 annex.80.e:0 "Hand these territories to our loyal ally..."
 annex.80.f:0 "Do nothing for now, keep up a military occupation."
+
 annex.81.t:0 "The Annexation of Bavaria"
 annex.81.d:0 "After a long fight we have launched a full offensive and captured the entire Bavarian state. Munich is now in our hands and we can finally implement an old Habsburg dream of Austrian Bavaria!"
 annex.81.a:0 "Great!"
+
 annex.82.t:0 "Integration of Bavaria"
 annex.82.d:0 "The state of Bavaria, which we once unsuccessfully tried to add to our empire in the 18th century is now firmly integrated into our growing state."
+
 annex.83.t:0 "The Annexation of Baden-Franken"
 annex.83.d:0 "After a long fight we have launched a full offensive and captured the entire Franken and Baden states. Stuttgart is now in our hands and we can finally implement an old Habsburg dream of Austrian Baden-Franken!"
+
 annex.84.t:0 "Integration of Baden-Franken"
 annex.84.d:0 "The states of Baden-Franken are fully integrated into our growing states."
+
 annex.88.t:0 "The Fate of Yunnan"
 annex.88.d:0 "Following the war against the Yunnan warlords on the mountains of Southwest China, we are now under control of several lands once held by that puny clique. What shall we do with them now? We could transfer the territory to our Chinese partners, or direct control it as a new colony, or even setup a new independent republic in Yunnan, albeit under a friendly government."
 annex.88.a:0 "Transfer the territory to the AOG Company Lands."
@@ -331,35 +388,46 @@ annex.88.b:0 "Transfer the territory to the Republic of China."
 annex.88.c:0 "These lands belong to the Qing Empire."
 annex.88.e:0 "Setup a new Imperial Colony in Yunnan."
 annex.88.f:0 "Establish an independent Yunnan Republic."
+
 annex.89.t:0 "The Fate of Switzerland"
 annex.89.d:0 "All across the old Swiss Confederation, the French-, German- and Italian-speaking cantons are starting to experience small-scale revolts against our garrisons. Granting independence to the Swiss would appease this dissent, while also guaranteeing another valuable member into our alliance. Some right-wing politicians, however, propose a complete dissolution of the old Confederation, annexing the German-speaking areas to the Reich - or maybe even a partition of Switzerland with France and Italy."
 annex.89.a:0 "Annex all cantons directly into the Reich."
 annex.89.b:0 "Annex German Switzerland, grant independence to the rest."
 annex.89.c:0 "Restore independent Switzerland."
 annex.89.e:0 "Propose a partition of Switzerland with Italy and France."
+
 annex.90.t:0 "German Switzerland under our control"
 annex.90.d:0 "The peoples of the German-speaking cantons of old Switzerland have finally folded to our control."
 annex.90.a:0 "Great!"
+
 annex.92.t:0 "The Partition of Switzerland"
 annex.92.d:0 "The German Empire, currently occupying the former country of Switzerland, has proposed a partition of the old Confederation with us. They have offered us the former Italian-speaking cantons of Ticino and Graubünden, centred in the town of Lugano."
 annex.92.a:0 "An excellent proposition!"
 annex.92.b:0 "We don't trust the Germans."
+
 annex.93.t:0 "Italy accepts"
 annex.93.d:0 "The Italians have accepted our offer for the partition of Switzerland. We will now transfer sovereignty of the Italian-speaking cantons of Ticino and Graubünden to them."
 annex.93.a:0 "Great."
+
 annex.94.t:0 "Italian Switzerland Under our Control"
 annex.94.d:0 "The peoples of the Italian-speaking cantons of old Switzerland have finally folded to our control."
 annex.94.a:0 "Great."
+
 annex.95.t:0 "Italy refuses"
 annex.95.d:0 "To our great surprise the Italians have refused to our generous partition offer, citing various reasons and claims. Military occupation of the region will continue."
 annex.95.a:0 "Their loss..."
+
 annex.96.d:0 "The German Empire, currently occupying the former country of Switzerland, has proposed a partition of the old Confederation with us. They have offered us the former French-speaking cantons centred in the city of Geneva."
+
 annex.97.t:0 "France accepts"
 annex.97.d:0 "The French have accepted our offer for the partition of Switzerland. We will now transfer sovereignty of the French-speaking cantons to them."
+
 annex.98.t:0 "French Switzerland under our control"
 annex.98.d:0 "The peoples of the French-speaking cantons of old Switzerland have finally folded to our control."
+
 annex.99.t:0 "France refuses"
 annex.99.d:0 "To our great surprise the French have refused to our generous partition offer, citing various reasons and claims. Military occupation of the region will continue."
+
 annex.100.t:0 "The Fate of Hashemite Arabia"
 annex.100.d:0 "Following the war against the Hashemites, we are now under control of several lands once held by that Arabic state. What shall we do with them now? We could try and establish direct control it as a new province, or even setup a new independent republic in Nejd, albeit under a friendly government."
 annex.100.a:0 "Directly integrate Arabia into our empire!"
