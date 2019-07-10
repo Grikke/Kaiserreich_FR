@@ -1,10 +1,10 @@
 ﻿l_french:
 
 ### Ideas ###
-BHC_backwards_economy_1:0 "Underdeveloped Economy"
-BHC_backwards_economy_1_desc:0 "The nation is largely agrarian in nature, with many of its agricultural methods long outdated."
-BHC_backwards_economy_2:0 "Recovering Economy"
-BHC_backwards_economy_2_desc:0 "The nation is largely agrarian in nature, with many of its agricultural methods long outdated. Things have slowly started to change, however, with industrialisation becoming more common in urban areas."
+BHC_backwards_economy_1:0 "Économie Sous-développée"
+BHC_backwards_economy_1_desc:0 "Le pays est en grande partie de nature agraire, et bon nombre de ses méthodes agricoles sont dépassées depuis longtemps."
+BHC_backwards_economy_2:0 "Redressement de l’Économie"
+BHC_backwards_economy_2_desc:0 "Le pays est en grande partie de nature agraire, et bon nombre de ses méthodes agricoles sont dépassées depuis longtemps. Things have slowly started to change, however, with industrialisation becoming more common in urban areas."
 BHC_divided_government:0 "Divided Government"
 BHC_divided_government_desc:0 "There are three factions within the Calcutta government: the Maximists, the Moderates, and the Agrarians. Each fought together during the civil war, but each has their own goals and their own vision of what a socialist India will become, even if they are all part of the same government. The in-fighting can, at times, become extreme, and there are worries that the division may eventually lead to open conflict."
 BHC_army_purged:0 "Effects of the Purge"
